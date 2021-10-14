@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="30px" height="11px"
+xml:space="preserve">
+<g id="PathID_3568" transform="matrix(1, 0, 0, 1, 0, 0)">
+<path style="fill:#6E6259;fill-opacity:1" d="M24.9 10.95L27.7 2L26.1 1.9L26.45 0.5L29.05 0.25L25.65 11L24.9 10.95M18.25 2.55L18.25 1.25L23.5 0L23.2 1.25Q20.8 2.2 18.25 2.55M7.35 1.35L8.55 1.1L10.6 0.65L13.1 1.25L13.25 2.55L10.45 2.1L7.6 2.85L7.35 1.35M0.6 2.25L0 0.75L3.3 1.3L3.75 2.85L0.6 2.25" />
+<path style="fill:#808080;fill-opacity:1" d="M26.1 1.9L27.7 2L24.9 10.95L25.65 11L23.75 11Q23.35 6 26.1 1.9M18.25 2.55Q20.8 2.2 23.2 1.25L22 11L17 11L18.25 2.55M14.5 11L8 11L7.6 2.85L10.45 2.1L13.25 2.55L14.5 11M0.6 2.25L3.75 2.85L7 11L3.95 10.95L0.6 2.25" />
+</g>
+</svg>

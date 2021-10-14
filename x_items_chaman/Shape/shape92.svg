@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="71px" height="11px"
+xml:space="preserve">
+<g id="PathID_2517" transform="matrix(1, 0, 0, 1, 0, 0.15)">
+<path style="fill:#54504E;fill-opacity:1" d="M64.45 9.35Q65.55 8.1 67.1 8.1L68.4 8.35L69.9 9.5L70.4 10.4L63.95 10.4L64.15 9.95L64.45 9.35M48 8.75L48.05 8.95L48.15 9.35L48.35 10.45L41.05 10.45L41.4 8.85L46.75 8.75L47.15 8.75L48 8.75M29.75 8.9L30.1 10.5L22.4 10.5L22.95 8.85L29.75 8.9M6.4 9.75L6.9 10.55L0 10.55L0.45 9.7Q1.2 8.95 1.95 8.55Q2.35 8.3 2.8 8.2L4.5 8.3L5.25 8.65Q6.3 9.4 6.4 9.75" />
+<path style="fill:#B8B8B8;fill-opacity:1" d="M57.55 3.65L56.9 4.55Q55.55 6.25 53.35 6.3Q51.15 6.3 49.6 4.9Q48.95 4.3 48.45 2.75L48.05 1.25L57.55 3.65M47.15 8.75Q44.15 8.3 42.05 7.5Q43.15 6.1 44.7 6.1Q46.25 6.1 47.3 7.5L47.9 8.5L48 8.75L47.15 8.75M34.6 0.1L38.35 0.05Q38.3 2 36.9 3.35L36.25 3.95Q34.05 2.25 33.5 0.15L34.6 0.1" />
+<linearGradient
+id="LinearGradID_1364" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.0491638, 0, 0, 0.0067749, 24.5, 6.45)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#666666;stop-opacity:1" />
+<stop  offset="0.513725" style="stop-color:#878787;stop-opacity:1" />
+<stop  offset="1" style="stop-color:#AAAAAA;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_1364) " d="M47.15 8.75L46.75 8.75L41.4 8.85L41.45 8.65L42 7.6L42.05 7.5Q44.15 8.3 47.15 8.75M36.15 4Q35 4.8 33.5 4.8Q31.5 4.8 30.05 3.35Q28.75 2.05 28.65 0.35L33.5 0.15Q34.05 2.25 36.25 3.95L36.15 4M22.95 8.85L23.05 8.7L23.65 7.65Q24.8 6.1 26.45 6.1Q28.15 6.1 29.05 7.45L29.75 8.9L22.95 8.85M19.25 1.55L19.25 2Q19.25 3.9 17.9 5.25Q16.55 6.6 14.65 6.6Q12.75 6.6 11.4 5.25L10.5 3.9Q14.85 2.4 19.25 1.55" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.501961" d="M48.05 1.25L57.55 3.65" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.501961" d="M33.5 0.15L28.65 0.35" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.501961" d="M38.35 0.05L34.6 0.1L33.5 0.15" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.501961" d="M10.5 3.9Q14.85 2.4 19.25 1.55" />
+</g>
+</svg>

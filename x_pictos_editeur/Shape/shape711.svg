@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="102px" height="52px"
+xml:space="preserve">
+<g id="PathID_1698" transform="matrix(1, 0, 0, 1, 36.5, 50.55)">
+<path style="fill:#AFA59A;fill-opacity:1" d="M-21.05 -27.15L-21.05 -5.9Q-28.45 -4.9 -36.3 -5.9L-36.3 -34.25Q-31.5 -29.65 -21.05 -27.15" />
+<path style="fill:#D2C9BF;fill-opacity:1" d="M-36.3 -34.25Q-29.25 -38.7 -21.05 -36.7L-21.05 -27.15Q-31.5 -29.65 -36.3 -34.25" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.388235" d="M-21.05 -36.7Q18.7 -40.65 60.45 -35.1Q62.5 -24.95 61.9 -15.25L61.9 -5.9L-21.05 -5.9Q-28.45 -4.9 -36.3 -5.9L-36.3 -34.25Q-29.25 -38.7 -21.05 -36.7L-21.05 -27.15L-21.05 -5.9" />
+</g>
+<g id="PathID_1699" transform="matrix(1, 0, 0, 1, 36.5, 50.55)">
+<path style="fill:#795531;fill-opacity:1" d="M64.95 -0.9L64.95 0.45L58.5 0.45L58.5 -9.5Q58.95 -23.5 64.95 -35.85L64.95 -21.35Q60.9 -14.45 61.8 -6.8Q62.2 -2.8 64.95 -0.9M58.5 -31.3L58.5 -49.8L62.2 -50.3Q62.35 -39.3 58.5 -31.3" />
+<path style="fill:#664626;fill-opacity:1" d="M58.5 -9.5L58.5 -31.3Q62.35 -39.3 62.2 -50.3L64.95 -49.8L64.95 -35.85Q58.95 -23.5 58.5 -9.5M61.8 -6.8Q60.9 -14.45 64.95 -21.35L64.95 -0.9Q62.2 -2.8 61.8 -6.8" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.301961" d="M62.2 -50.3L64.95 -49.8L64.95 -35.85L64.95 -21.35L64.95 -0.9L64.95 0.45L58.5 0.45L58.5 -9.5L58.5 -31.3L58.5 -49.8L62.2 -50.3z" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.14902" d="M62.2 -50.3Q62.35 -39.3 58.5 -31.3" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.14902" d="M64.95 -21.35Q60.9 -14.45 61.8 -6.8Q62.2 -2.8 64.95 -0.9" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.14902" d="M64.95 -35.85Q58.95 -23.5 58.5 -9.5" />
+</g>
+</svg>

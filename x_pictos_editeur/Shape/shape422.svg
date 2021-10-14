@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="23px" height="10px"
+xml:space="preserve">
+<g id="PathID_1050" transform="matrix(1, 0, 0, 1, 0.15, 0.15)">
+<path style="fill:#989898;fill-opacity:1" d="M18.9 1.1L11.05 1.35L3.2 1.1L0 0.65L3.2 0.15Q6.45 0 11.05 0Q15.65 0 18.9 0.15L22.1 0.7L22 0.8L18.9 1.1M10.9 3.7L11.15 4.15L10.9 4.65L10.35 4.9L9.75 4.65Q9.6 4.5 9.6 4.15Q9.6 3.95 9.75 3.7L10.35 3.45Q10.75 3.45 10.9 3.7M12.95 3.55L13.05 3.2Q13.2 3.05 13.4 3.05L13.8 3.2L14.05 3.55L13.8 3.85L13.4 4L13.05 3.85L12.95 3.55M14.1 6Q14.45 6.35 14.45 6.75Q14.45 7.2 14.1 7.45L13.35 7.8Q12.9 7.8 12.5 7.45Q12.2 7.2 12.2 6.75Q12.2 6.35 12.5 6Q12.9 5.7 13.35 5.7Q13.75 5.7 14.1 6" />
+<linearGradient
+id="LinearGradID_491" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00743103, -0.00526428, 0.00346375, 0.00419617, 14.25, 3.85)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0.00392157" style="stop-color:#808080;stop-opacity:1" />
+<stop  offset="1" style="stop-color:#3F3F3F;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_491) " d="M22 0.8Q21.8 4.15 18.8 6.65Q15.55 9.3 10.95 9.3Q6.45 9.3 3.2 6.65Q0.15 4.1 0 0.65L3.2 1.1L11.05 1.35L18.9 1.1L22 0.8M10.35 3.45L9.75 3.7Q9.6 3.95 9.6 4.15Q9.6 4.5 9.75 4.65L10.35 4.9L10.9 4.65L11.15 4.15L10.9 3.7Q10.75 3.45 10.35 3.45M13.05 3.85L13.4 4L13.8 3.85L14.05 3.55L13.8 3.2L13.4 3.05Q13.2 3.05 13.05 3.2L12.95 3.55L13.05 3.85M13.35 5.7Q12.9 5.7 12.5 6Q12.2 6.35 12.2 6.75Q12.2 7.2 12.5 7.45Q12.9 7.8 13.35 7.8L14.1 7.45Q14.45 7.2 14.45 6.75Q14.45 6.35 14.1 6Q13.75 5.7 13.35 5.7" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.301961" d="M0 0.65L3.2 0.15Q6.45 0 11.05 0Q15.65 0 18.9 0.15L22.1 0.7L22 0.8Q21.8 4.15 18.8 6.65Q15.55 9.3 10.95 9.3Q6.45 9.3 3.2 6.65Q0.15 4.1 0 0.65z" />
+</g>
+<g id="PathID_1051" transform="matrix(1, 0, 0, 1, 0.15, 0.15)">
+<path style="fill:#989898;fill-opacity:0.858824" d="M17.9 3.55Q18.85 1.75 20.15 1.65Q21.15 1.5 21.25 2.6L21.25 3Q20.95 4.2 19.15 6.15Q18.55 6.7 16.15 7.6Q14.95 7.9 14.6 8.15L15.7 6.85Q17.1 5.2 17.9 3.55" />
+</g>
+</svg>

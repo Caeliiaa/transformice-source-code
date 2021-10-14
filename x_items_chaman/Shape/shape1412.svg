@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="10px" height="11px"
+xml:space="preserve">
+<g id="PathID_3404" transform="matrix(1, 0, 0, 1, 0.25, 0.25)">
+<path style="fill:#808080;fill-opacity:1" d="M0.85 9.75Q-0.5 7.6 0.3 5.9L3.9 2.7L7.3 0L7.4 0.2Q6.45 0.75 5.1 4.95Q4.4 7.1 4.2 9.75L0.85 9.75" />
+<path style="fill:#54504E;fill-opacity:1" d="M9.25 5.2Q9.9 9.2 7.9 9.75L4.2 9.75Q4.4 7.1 5.1 4.95Q6.45 0.75 7.4 0.2Q8.55 1.15 9.25 5.2" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M7.4 0.2L7.3 0L3.9 2.7L0.3 5.9Q-0.5 7.6 0.85 9.75" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M7.9 9.75Q9.9 9.2 9.25 5.2Q8.55 1.15 7.4 0.2" />
+</g>
+<g id="PathID_3405" transform="matrix(1, 0, 0, 1, 0.25, 0.25)">
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.2" d="M9.4 6.2L4.25 8.95" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.2" d="M4.25 8.95L4.2 9.75" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.2" d="M7.05 0.2Q5.75 2.65 5.1 4.95" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.2" d="M5.1 4.95L8.8 3.15" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.2" d="M0.3 5.9L4.25 8.95" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.2" d="M4.25 8.95Q4.45 7 5.1 4.95" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.2" d="M5.1 4.95L3.55 2.85" />
+</g>
+</svg>

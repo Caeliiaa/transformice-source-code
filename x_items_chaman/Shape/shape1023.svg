@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="66px" height="39px"
+xml:space="preserve">
+<g id="PathID_3134" transform="matrix(1, 0, 0, 1, 0.25, 0.25)">
+<path style="fill:#54504E;fill-opacity:1" d="M4.25 14.85L1.65 11.05L63.05 11.05L61.7 14.85L4.25 14.85" />
+<linearGradient
+id="LinearGradID_1539" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0, 0.00366211, -0.00906372, 0, 31.9, 8.8)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#808080;stop-opacity:1" />
+<stop  offset="0.992157" style="stop-color:#625F5F;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_1539) " d="M61.7 14.85L63.05 11.05L1.65 11.05L4.25 14.85L0 14.85L0 3Q0 0 3 0L61.95 0Q64.95 0 64.95 3L64.95 14.85L61.7 14.85" />
+<path style="fill:#474340;fill-opacity:1" d="M0 17.8L0 14.85L4.25 14.85L61.7 14.85L64.95 14.85L64.95 17.8L0 17.8" />
+<linearGradient
+id="LinearGradID_1540" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0, 0.00657654, -0.0125122, 0, 32.35, 32.1)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#808080;stop-opacity:1" />
+<stop  offset="0.988235" style="stop-color:#575757;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_1540) " d="M64.95 17.8L64.95 35.3Q64.95 37.55 63.3 38.1L61.95 38.3L3 38.3Q0 38.3 0 35.3L0 17.8L64.95 17.8" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M0 14.85L0 3Q0 0 3 0L61.95 0Q64.95 0 64.95 3L64.95 14.85L64.95 17.8L64.95 35.3Q64.95 37.55 63.3 38.1L61.95 38.3L3 38.3Q0 38.3 0 35.3L0 17.8L0 14.85L4.25 14.85" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M61.7 14.85L64.95 14.85" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M4.25 14.85L61.7 14.85" />
+</g>
+<g id="PathID_3135" transform="matrix(1, 0, 0, 1, 0.25, 0.25)">
+<path style="fill:#FFFFFF;fill-opacity:0.329412" d="M64.05 4.25L1.1 4.25L1.1 1.05L64.05 1.05L64.05 4.25" />
+</g>
+</svg>

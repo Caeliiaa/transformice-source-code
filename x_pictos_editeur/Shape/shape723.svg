@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="32px" height="23px"
+xml:space="preserve">
+<g id="PathID_1743" transform="matrix(1, 0, 0, 1, 1.75, 59.55)">
+<path style="fill:#251D13;fill-opacity:1" d="M28.35 -55.8L26.4 -37.9L13.2 -37.4L16.25 -55.8L28.35 -55.8" />
+</g>
+<g id="PathID_1744" transform="matrix(1, 0, 0, 1, 1.75, 59.55)">
+<path style="fill:#7E633B;fill-opacity:1" d="M17.55 -55.7L14.45 -37.4L12.1 -37.65L15.25 -55.9L17.55 -55.7M20.55 -55.7L17.45 -37.4L15.1 -37.65L18.25 -55.9L20.55 -55.7M26.4 -55.7L23.3 -37.4L20.95 -37.65L24.1 -55.9L26.4 -55.7M23.45 -55.7L20.35 -37.4L18 -37.65L21.15 -55.9L23.45 -55.7" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.309804" d="M15.25 -55.9L12.1 -37.65L14.45 -37.4L17.55 -55.7L15.25 -55.9z" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.309804" d="M18.25 -55.9L15.1 -37.65L17.45 -37.4L20.55 -55.7L18.25 -55.9z" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.309804" d="M24.1 -55.9L20.95 -37.65L23.3 -37.4L26.4 -55.7L24.1 -55.9z" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.309804" d="M21.15 -55.9L18 -37.65L20.35 -37.4L23.45 -55.7L21.15 -55.9z" />
+</g>
+<g id="PathID_1745" transform="matrix(1, 0, 0, 1, 1.75, 59.55)">
+<path style="fill:#24345B;fill-opacity:1" d="M30.15 -59.05L26.65 -37.4L23.95 -37.7L27.55 -59.3Q29.3 -59.65 30.15 -59.05" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.309804" d="M27.55 -59.3L23.95 -37.7L26.65 -37.4L30.15 -59.05Q29.3 -59.65 27.55 -59.3z" />
+</g>
+<g id="PathID_1746" transform="matrix(1, 0, 0, 1, 1.75, 59.55)">
+<path style="fill:#232019;fill-opacity:1" d="M11.6 -37.65L-1.3 -37.65L-1.65 -49.95L11.6 -49.95L11.6 -37.65" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.309804" d="M11.6 -37.65L-1.3 -37.65L-1.65 -49.95L11.6 -49.95L11.6 -37.65z" />
+</g>
+</svg>

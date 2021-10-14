@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="24px" height="3px"
+xml:space="preserve">
+<g id="PathID_3640" transform="matrix(1, 0, 0, 1, 0.5, 0.5)">
+<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#808080;stroke-opacity:1" d="M0 1.1Q1.6 -0.5 3.55 0.2Q6.95 2 11.35 0.15L15.65 1.15L19.35 0.2L22.65 0.95" />
+</g>
+</svg>

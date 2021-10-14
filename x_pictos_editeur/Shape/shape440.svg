@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="11px" height="14px"
+xml:space="preserve">
+<g id="PathID_1101" transform="matrix(1, 0, 0, 1, 5, 77.2)">
+<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.298039" d="M0.35 -66.8L0.35 -67.65" />
+</g>
+<g id="PathID_1102" transform="matrix(1, 0, 0, 1, 5, 77.2)">
+<radialGradient
+id="RadialGradID_539" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00616455, 0, 0, 0.00793457, 0.35, -70.6)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0"  style="stop-color:#FFFDF5;stop-opacity:0.878431" />
+<stop  offset="0.14902"  style="stop-color:#FFD202;stop-opacity:0.701961" />
+<stop  offset="0.392157"  style="stop-color:#F79331;stop-opacity:0.541176" />
+<stop  offset="0.615686"  style="stop-color:#FCC86F;stop-opacity:0.141176" />
+<stop  offset="1"  style="stop-color:#FFDD87;stop-opacity:0" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_539) " d="M4.05 -75.25Q5.6 -73.35 5.6 -70.6Q5.6 -67.9 4.05 -65.95Q2.55 -64.05 0.35 -64.05Q-1.9 -64.05 -3.45 -65.95Q-5 -67.9 -5 -70.6Q-5 -73.35 -3.45 -75.25Q-1.9 -77.2 0.35 -77.2Q2.55 -77.2 4.05 -75.25" />
+</g>
+<g id="PathID_1103" transform="matrix(1, 0, 0, 1, 5, 77.2)">
+<linearGradient
+id="LinearGradID_540" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.52588e-005, 0.00296021, -0.00408936, -1.52588e-005, 0.25, -70.65)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#F35225;stop-opacity:1" />
+<stop  offset="0.988235" style="stop-color:#FFE362;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_540) " d="M1.1 -70.1Q0.35 -70.85 0.25 -71.75Q0 -70.5 0.2 -69.55Q-0.45 -69.7 -0.2 -70.85Q-1.1 -69.5 0.6 -68.7L0.55 -68.7Q-1.45 -69 -1.1 -70.5L-0.7 -71.75L0.15 -72.85Q1.25 -74.35 0.65 -76.1Q1.95 -73.9 0.95 -72.2L1 -71.75L1.15 -71.4L1.75 -70.5Q2.3 -69.65 2 -69.25Q1.65 -68.9 1.05 -68.85Q1.6 -69.55 1.1 -70.1" />
+<path style="fill:#FFF1B4;fill-opacity:1" d="M1.05 -68.85L0.6 -68.7Q-1.1 -69.5 -0.2 -70.85Q-0.45 -69.7 0.2 -69.55Q0 -70.5 0.25 -71.75Q0.35 -70.85 1.1 -70.1Q1.6 -69.55 1.05 -68.85" />
+</g>
+</svg>

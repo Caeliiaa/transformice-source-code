@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="11px" height="14px"
+xml:space="preserve">
+<g id="PathID_1113" transform="matrix(1, 0, 0, 1, -6.2, 71.8)">
+<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.298039" d="M11.55 -61.4L11.55 -62.25" />
+</g>
+<g id="PathID_1114" transform="matrix(1, 0, 0, 1, -6.2, 71.8)">
+<radialGradient
+id="RadialGradID_547" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00616455, 0, 0, 0.00793457, 11.55, -65.2)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0"  style="stop-color:#FFFDF5;stop-opacity:0.878431" />
+<stop  offset="0.14902"  style="stop-color:#FFD202;stop-opacity:0.701961" />
+<stop  offset="0.392157"  style="stop-color:#F79331;stop-opacity:0.541176" />
+<stop  offset="0.615686"  style="stop-color:#FCC86F;stop-opacity:0.141176" />
+<stop  offset="1"  style="stop-color:#FFDD87;stop-opacity:0" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_547) " d="M15.25 -69.85Q16.8 -67.95 16.8 -65.2Q16.8 -62.5 15.25 -60.55Q13.75 -58.65 11.55 -58.65Q9.3 -58.65 7.75 -60.55Q6.2 -62.5 6.2 -65.2Q6.2 -67.95 7.75 -69.85Q9.3 -71.8 11.55 -71.8Q13.75 -71.8 15.25 -69.85" />
+</g>
+<g id="PathID_1115" transform="matrix(1, 0, 0, 1, -6.2, 71.8)">
+<linearGradient
+id="LinearGradID_548" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-1.52588e-005, 0.00296021, -0.00408936, -1.52588e-005, 11.45, -65.25)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#F35225;stop-opacity:1" />
+<stop  offset="0.988235" style="stop-color:#FFE362;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_548) " d="M12.3 -64.7Q11.55 -65.45 11.45 -66.35Q11.2 -65.1 11.4 -64.15Q10.75 -64.3 11 -65.45Q10.1 -64.1 11.8 -63.3L11.75 -63.3Q9.75 -63.6 10.1 -65.1L10.5 -66.35L11.35 -67.45Q12.45 -68.95 11.85 -70.7Q13.15 -68.5 12.15 -66.8L12.2 -66.35L12.35 -66L12.95 -65.1Q13.5 -64.25 13.2 -63.85Q12.85 -63.5 12.25 -63.45Q12.8 -64.15 12.3 -64.7" />
+<path style="fill:#FFF1B4;fill-opacity:1" d="M12.25 -63.45L11.8 -63.3Q10.1 -64.1 11 -65.45Q10.75 -64.3 11.4 -64.15Q11.2 -65.1 11.45 -66.35Q11.55 -65.45 12.3 -64.7Q12.8 -64.15 12.25 -63.45" />
+</g>
+</svg>

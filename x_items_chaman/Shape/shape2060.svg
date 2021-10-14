@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="21px" height="23px"
+xml:space="preserve">
+<g id="PathID_3870" transform="matrix(1, 0, 0, 1, 0.1, 0.1)">
+<linearGradient
+id="LinearGradID_1709" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00930786, 0.00717163, -0.0080719, 0.0104828, 11.7, 10.3)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#9F9F9F;stop-opacity:1" />
+<stop  offset="0.807843" style="stop-color:#626262;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_1709) " d="M17.05 5.15L19.65 7.95Q20 8.4 20 9.05Q20 9.65 19.55 10.1Q19.1 10.45 18.5 10.45Q18.2 10.45 16.65 9L14.75 7.05L10.7 3.9Q11.8 5 11.85 8.9Q11.95 12.55 11.55 14.9Q11.2 17.1 11.5 20.35Q11.55 20.95 11.2 21.4Q10.75 21.85 10.15 21.9L9.05 21.65Q8.6 21.2 8.55 20.6Q8.45 19.2 8.65 14.7L8.9 9Q8.85 6.5 8.45 5.95L8.45 5.9Q8.1 5.7 6.05 6.85Q3.7 8.15 2.7 9.8Q2.4 10.3 1.8 10.45Q1.25 10.55 0.7 10.25Q0.2 9.95 0.05 9.35Q-0.1 8.75 0.2 8.25Q2.3 4.7 9.9 0L16.95 5.15L17.05 5.15" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.301961" d="M16.95 5.15L9.9 0Q2.3 4.7 0.2 8.25Q-0.1 8.75 0.05 9.35Q0.2 9.95 0.7 10.25Q1.25 10.55 1.8 10.45Q2.4 10.3 2.7 9.8Q3.7 8.15 6.05 6.85Q8.1 5.7 8.45 5.9L8.45 5.95Q8.85 6.5 8.9 9L8.65 14.7Q8.45 19.2 8.55 20.6Q8.6 21.2 9.05 21.65L10.15 21.9Q10.75 21.85 11.2 21.4Q11.55 20.95 11.5 20.35Q11.2 17.1 11.55 14.9Q11.95 12.55 11.85 8.9Q11.8 5 10.7 3.9L14.75 7.05L16.65 9Q18.2 10.45 18.5 10.45Q19.1 10.45 19.55 10.1Q20 9.65 20 9.05Q20 8.4 19.65 7.95L17.05 5.15L16.95 5.15z" />
+</g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="35px" height="8px"
+xml:space="preserve">
+<g id="PathID_4396" transform="matrix(1, 0, 0, 1, 0, 0)">
+<radialGradient
+id="RadialGradID_1884" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00891113, 0, 0, 0.00505066, 27.4, 3.9)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0.121569"  style="stop-color:#808080;stop-opacity:1" />
+<stop  offset="0.647059"  style="stop-color:#808080;stop-opacity:0" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_1884) " d="M22.2 6.65Q20.05 5.55 20.05 3.9Q20.05 2.25 22.2 1.15Q24.4 0 27.4 0Q30.5 0 32.6 1.15Q34.8 2.25 34.8 3.9Q34.8 5.55 32.6 6.65Q30.5 7.75 27.4 7.75Q24.4 7.75 22.2 6.65" />
+</g>
+<g id="PathID_4397" transform="matrix(1, 0, 0, 1, 0, 0)">
+<radialGradient
+id="RadialGradID_1885" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00891113, 0, 0, 0.00505066, 7.35, 3.9)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0.121569"  style="stop-color:#808080;stop-opacity:1" />
+<stop  offset="0.647059"  style="stop-color:#808080;stop-opacity:0" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_1885) " d="M14.75 3.9Q14.75 5.55 12.55 6.65Q10.45 7.75 7.35 7.75Q4.35 7.75 2.15 6.65Q0 5.55 0 3.9Q0 2.25 2.15 1.15Q4.35 0 7.35 0Q10.45 0 12.55 1.15Q14.75 2.25 14.75 3.9" />
+</g>
+</svg>

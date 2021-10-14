@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="83px" height="63px"
+xml:space="preserve">
+<g id="PathID_3004" transform="matrix(1, 0, 0, 1, 0.15, 0.15)">
+<path style="fill:#808080;fill-opacity:1" d="M13.45 2.85Q9.4 10.7 6.25 13.9Q3.15 18.9 9.4 18.1Q14.1 17.85 16.75 8.1Q16.05 18.55 8.9 20.8Q4.1 22.45 1.35 19.6Q-1.5 16.65 1.65 12.6L5.35 7.75Q8.1 4 10.1 0L13.45 2.85" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M16.75 8.1L16.8 5.7L13.45 2.85" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M16.75 8.1Q16.05 18.55 8.9 20.8Q4.1 22.45 1.35 19.6Q-1.5 16.65 1.65 12.6L5.35 7.75Q8.1 4 10.1 0L13.45 2.85" />
+</g>
+<g id="PathID_3005" transform="matrix(1, 0, 0, 1, 0.15, 0.15)">
+<path style="fill:#808080;fill-opacity:1" d="M72.65 18.1Q78.9 18.9 75.8 13.9Q72.65 10.7 68.6 2.85L71.95 0Q73.95 4 76.7 7.75L80.4 12.6Q83.55 16.65 80.7 19.6Q77.95 22.45 73.15 20.8Q66 18.55 65.3 8.1Q67.95 17.85 72.65 18.1" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M68.6 2.85L71.95 0Q73.95 4 76.7 7.75L80.4 12.6Q83.55 16.65 80.7 19.6Q77.95 22.45 73.15 20.8Q66 18.55 65.3 8.1L65.25 5.7L68.6 2.85z" />
+</g>
+<g id="PathID_3006" transform="matrix(1, 0, 0, 1, 0.15, 0.15)">
+<radialGradient
+id="RadialGradID_1461" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.0703735, 0, 0, 0.0703735, 40.1, -1.75)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0"  style="stop-color:#A1A1A1;stop-opacity:1" />
+<stop  offset="1"  style="stop-color:#808080;stop-opacity:1" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_1461) " d="M9.6 0.05L71.75 0.05L71.75 62.05Q61.95 41.05 41.5 38.05Q21.1 41.05 9.6 62.05L9.6 0.05" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M71.75 62.05L71.75 0.05L9.6 0.05L9.6 62.05" />
+</g>
+</svg>

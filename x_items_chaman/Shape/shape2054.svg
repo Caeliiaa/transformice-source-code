@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="18px" height="45px"
+xml:space="preserve">
+<g id="PathID_3867" transform="matrix(1, 0, 0, 1, 0.15, 0.15)">
+<path style="fill:#808080;fill-opacity:1" d="M6 6.05Q1.95 1.55 0 0.1Q8.95 -0.35 12.6 1.2Q17.2 3.3 17.2 9.45Q17.2 10.6 16.75 11.45Q16.55 11.95 14.95 12.75L11.7 14.1Q10.1 10.55 6 6.05M16.75 32.8Q17.15 33.7 17.15 34.85Q17.15 41 12.6 43.1Q8.9 44.65 0 44.2Q1.9 42.7 6 38.25Q10.1 33.75 11.7 30.2L14.95 31.55L16.75 32.8" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.301961" d="M6 6.05Q1.95 1.55 0 0.1Q8.95 -0.35 12.6 1.2Q17.2 3.3 17.2 9.45Q17.2 10.6 16.75 11.45Q16.55 11.95 14.95 12.75L11.7 14.1Q10.1 10.55 6 6.05z" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.301961" d="M14.95 31.55L11.7 30.2Q10.1 33.75 6 38.25Q1.9 42.7 0 44.2Q8.9 44.65 12.6 43.1Q17.15 41 17.15 34.85Q17.15 33.7 16.75 32.8L14.95 31.55z" />
+</g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="9px" height="11px"
+xml:space="preserve">
+<g id="PathID_970" transform="matrix(1, 0, 0, 1, 21.95, -19.25)">
+<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.298039" d="M-17.7 27.65L-17.7 26.95" />
+</g>
+<g id="PathID_971" transform="matrix(1, 0, 0, 1, 21.95, -19.25)">
+<radialGradient
+id="RadialGradID_466" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.00495911, 0, 0, 0.00637817, -17.7, 24.55)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0"  style="stop-color:#FFFDF5;stop-opacity:0.878431" />
+<stop  offset="0.14902"  style="stop-color:#FFD202;stop-opacity:0.701961" />
+<stop  offset="0.392157"  style="stop-color:#F79331;stop-opacity:0.541176" />
+<stop  offset="0.615686"  style="stop-color:#FCC86F;stop-opacity:0.141176" />
+<stop  offset="1"  style="stop-color:#FFDD87;stop-opacity:0" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_466) " d="M-14.65 28.3Q-15.9 29.85 -17.7 29.85Q-19.45 29.85 -20.7 28.3Q-21.95 26.75 -21.95 24.55Q-21.95 22.35 -20.7 20.85Q-19.45 19.25 -17.7 19.25Q-15.9 19.25 -14.65 20.85Q-13.4 22.35 -13.4 24.55Q-13.4 26.75 -14.65 28.3" />
+</g>
+</svg>

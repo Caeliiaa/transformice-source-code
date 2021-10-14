@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="11px" height="61px"
+xml:space="preserve">
+<g id="PathID_1911" transform="matrix(1, 0, 0, 1, 6.25, 58.9)">
+<path style="fill:#5F771F;fill-opacity:1" d="M1.65 -32.1L0.8 -35.3Q1.15 -37.2 2.5 -36.1L3.05 -31.95Q2.25 -31.3 1.65 -32.1M3.3 -10.55Q2.55 -4.3 0.7 0.8Q-0.35 1.6 -0.95 0.35L0.3 -3.55Q1.65 -4.4 3.3 -10.55" />
+<path style="fill:#75912A;fill-opacity:1" d="M3.05 -31.95Q4.4 -19.95 3.3 -10.55Q1.65 -4.4 0.3 -3.55Q4.65 -18.7 1.65 -32.1Q2.25 -31.3 3.05 -31.95" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M0.3 -3.55Q4.65 -18.7 1.65 -32.1L0.8 -35.3Q1.15 -37.2 2.5 -36.1L3.05 -31.95Q4.4 -19.95 3.3 -10.55Q2.55 -4.3 0.7 0.8Q-0.35 1.6 -0.95 0.35L0.3 -3.55z" />
+</g>
+<g id="PathID_1912" transform="matrix(1, 0, 0, 1, 6.25, 58.9)">
+<path style="fill:#5B4135;fill-opacity:1" d="M0.1 -46.5L1.85 -40.65Q2.15 -41.5 2.6 -41.35Q2.65 -40.5 2.3 -39.65L3.4 -34.9Q1.8 -32.35 -0.25 -34.35L-0.85 -36.25Q1 -37.5 0.1 -46.5" />
+<path style="fill:#665540;fill-opacity:1" d="M-0.85 -36.25L-3.3 -43.25L-4.25 -44.2L-3.45 -44.55L-4.85 -48.5Q-3.8 -51.1 -1.1 -50L0.1 -46.5Q1 -37.5 -0.85 -36.25" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M0.1 -46.5L1.85 -40.65Q2.15 -41.5 2.6 -41.35Q2.65 -40.5 2.3 -39.65L3.4 -34.9Q1.8 -32.35 -0.25 -34.35L-0.85 -36.25L-3.3 -43.25L-4.25 -44.2L-3.45 -44.55L-4.85 -48.5Q-3.8 -51.1 -1.1 -50L0.1 -46.5z" />
+</g>
+<g id="PathID_1913" transform="matrix(1, 0, 0, 1, 6.25, 58.9)">
+<path style="fill:#CBB79F;fill-opacity:1" d="M-6.1 -58.75L-3.55 -52.35L-3.1 -49.05L-4.6 -51.65L-6.1 -58.75" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M-6.1 -58.75L-3.55 -52.35L-3.1 -49.05L-4.6 -51.65L-6.1 -58.75z" />
+</g>
+</svg>

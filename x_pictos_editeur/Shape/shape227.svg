@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="800px" height="400px"
+xml:space="preserve">
+<g id="PathID_621" transform="matrix(1, 0, 0, 1, 0, 0)">
+<radialGradient
+id="RadialGradID_245" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.56073, 0, 0, 0.341202, 388, 99)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="6" fy="0" >
+<stop  offset="0"  style="stop-color:#E0B677;stop-opacity:1" />
+<stop  offset="1"  style="stop-color:#2A1D0A;stop-opacity:1" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_245) " d="M800 400L0 400L0 0L800 0L800 400" />
+</g>
+<g id="PathID_622" transform="matrix(1, 0, 0, 1, 0, 0)">
+<linearGradient
+id="LinearGradID_246" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0, 0.0454712, -0.0653076, 0, 397.95, 365.5)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#1B3307;stop-opacity:1" />
+<stop  offset="1" style="stop-color:#2B5607;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_246) " d="M800 399.85L0.05 399.85L0.05 292.85L800 292.85L800 399.85" />
+</g>
+</svg>

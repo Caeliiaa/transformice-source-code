@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="39px" height="19px"
+xml:space="preserve">
+<g id="PathID_3616" transform="matrix(1, 0, 0, 1, 0, 0)">
+<radialGradient
+id="RadialGradID_1657" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.0297699, 0, 0, 0.0214233, 15.85, 15.95)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0.121569"  style="stop-color:#808080;stop-opacity:0.427451" />
+<stop  offset="0.639216"  style="stop-color:#808080;stop-opacity:0" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_1657) " d="M7.95 5.15L7.95 2.95L7.95 2.15L7.95 0.65Q8.5 1.9 9.35 2.95Q12.25 6.4 18.8 7.35L33.7 6.7Q35.8 5.95 37.1 2.95L38 0.2L38 0.75L38 2.25L38 2.95L38.05 5.8L38.05 6.5L38.05 7.2Q37.9 8 35.15 8.9L31.4 10.3Q30.8 10.55 30.6 11.15L30.5 11.65L30.45 12.1Q30.5 13.45 33.45 13.25L34.3 13.75L34.5 13.95L34.85 14.85L34.85 14.95L34.85 18.45L27.15 18.45L27.15 15.8Q26.85 14.15 23.75 14.1Q22.2 14.05 21.35 14.7Q20.8 15.15 20.75 15.85L20.75 15.95L20.75 16.15L20.75 16.25L20.75 18.45L11.7 18.45L11.7 16.1Q11.55 15.35 11.9 14.6L12.2 14.05L12.4 13.8L14.75 13.8Q16.95 13.3 16.8 11.35L16.8 11.15Q16.65 10.2 10.6 8.25Q8.45 6.9 8.15 5.8L7.95 5.15" />
+<radialGradient
+id="RadialGradID_1658" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00646973, 0, 0, 0.00646973, 6.2, 3.75)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0.121569"  style="stop-color:#808080;stop-opacity:0.427451" />
+<stop  offset="0.639216"  style="stop-color:#808080;stop-opacity:0" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_1658) " d="M8.15 5.8L7.25 5.4L3.25 2.95L0.85 0.95L0 0Q2.15 1.7 4.4 2.2L7.15 2.3L7.95 2.15L7.95 2.95L7.95 5.15L8.15 5.8" />
+</g>
+</svg>

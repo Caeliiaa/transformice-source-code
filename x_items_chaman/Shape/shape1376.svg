@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="201px" height="11px"
+xml:space="preserve">
+<g id="PathID_3386" transform="matrix(1, 0, 0, 1, 0.25, 0.25)">
+<path style="fill:#808080;fill-opacity:1" d="M194 6.25Q191.35 5.05 189.5 4.5L186.15 3.65Q183.4 3.4 181.85 2.6Q177.75 0.85 173.65 1.95L170.25 2.5L165.05 2.5L158.1 2.9L153.8 3.5Q148.45 4 145.75 2.45Q143 0.9 140.5 1.2Q138 1.5 134.85 0L146.55 0Q149.75 2.1 154.65 1.35L161.45 0.6Q166.25 1.1 170 0.65L172.65 0L179.2 0L183.45 0.95Q184.65 1.5 186.45 1.65L193.95 3.55L196.85 5.45L194 6.25" />
+<path style="fill:#686562;fill-opacity:1" d="M196.85 5.45Q198.6 6.75 200 8.35L200 8.65Q199.8 9.8 197.7 10L196.8 10Q195.75 7.7 194 6.25L196.85 5.45" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.501961" d="M179.2 0L198 0Q199.95 0.15 200 1.45L200 8.35L200 8.65Q199.8 9.8 197.7 10L196.8 10L1.35 10Q0.1 9.9 0 9L0 1.25Q-0.05 0.25 1.35 0L134.85 0L146.55 0L172.65 0L179.2 0z" />
+</g>
+</svg>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="19px" height="61px"
+xml:space="preserve">
+<g id="PathID_1914" transform="matrix(1, 0, 0, 1, 8.9, 58.5)">
+<path style="fill:#75912A;fill-opacity:1" d="M-1.95 -2.4Q-5.8 -11.85 -7.15 -19.7Q-7.35 -25 -6.55 -26Q-6.3 -12.8 -0.85 -2.5Q-1.5 -3.1 -1.95 -2.4" />
+<path style="fill:#5F771F;fill-opacity:1" d="M-0.85 -2.5L0.5 -0.1Q0.7 1.55 -0.55 0.9L-1.95 -2.4Q-1.5 -3.1 -0.85 -2.5M-7.15 -19.7Q-8.05 -24.9 -7.85 -29.4Q-7.25 -30.2 -6.5 -29.4L-6.55 -26Q-7.35 -25 -7.15 -19.7" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M-6.55 -26Q-6.3 -12.8 -0.85 -2.5L0.5 -0.1Q0.7 1.55 -0.55 0.9L-1.95 -2.4Q-5.8 -11.85 -7.15 -19.7Q-8.05 -24.9 -7.85 -29.4Q-7.25 -30.2 -6.5 -29.4L-6.55 -26z" />
+</g>
+<g id="PathID_1915" transform="matrix(1, 0, 0, 1, 8.9, 58.5)">
+<path style="fill:#665540;fill-opacity:1" d="M-8.5 -30.7L-8.35 -36.95L-8.75 -38L-8.05 -38.05L-7.95 -41.6L-4.85 -41.65L-5 -38.55Q-6.85 -31.15 -8.5 -30.7" />
+<path style="fill:#5B4135;fill-opacity:1" d="M-5 -38.55L-5.35 -33.35Q-4.9 -33.95 -4.6 -33.65L-5.3 -32.4L-5.85 -28.3Q-7.75 -26.8 -8.6 -29L-8.5 -30.7Q-6.85 -31.15 -5 -38.55" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M-8.5 -30.7L-8.35 -36.95L-8.75 -38L-8.05 -38.05L-7.95 -41.6L-4.85 -41.65L-5 -38.55L-5.35 -33.35Q-4.9 -33.95 -4.6 -33.65L-5.3 -32.4L-5.85 -28.3Q-7.75 -26.8 -8.6 -29L-8.5 -30.7z" />
+</g>
+<g id="PathID_1916" transform="matrix(1, 0, 0, 1, 8.9, 58.5)">
+<path style="fill:#CBB79F;fill-opacity:1" d="M-6.55 -41.55L-6.95 -44.05L-6 -50.15L-5.95 -44.25L-6.55 -41.55" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M-6.55 -41.55L-6.95 -44.05L-6 -50.15L-5.95 -44.25L-6.55 -41.55z" />
+</g>
+<g id="PathID_1917" transform="matrix(1, 0, 0, 1, 8.9, 58.5)">
+<path style="fill:#5F771F;fill-opacity:1" d="M1.8 -31.7L0.95 -34.9Q1.3 -36.8 2.65 -35.7L3.2 -31.55Q2.4 -30.9 1.8 -31.7M3.45 -10.15Q2.7 -3.9 0.85 1.2Q-0.2 2 -0.8 0.75L0.45 -3.15Q1.8 -4 3.45 -10.15" />
+<path style="fill:#75912A;fill-opacity:1" d="M3.2 -31.55Q4.55 -19.55 3.45 -10.15Q1.8 -4 0.45 -3.15Q4.8 -18.3 1.8 -31.7Q2.4 -30.9 3.2 -31.55" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M0.45 -3.15Q4.8 -18.3 1.8 -31.7L0.95 -34.9Q1.3 -36.8 2.65 -35.7L3.2 -31.55Q4.55 -19.55 3.45 -10.15Q2.7 -3.9 0.85 1.2Q-0.2 2 -0.8 0.75L0.45 -3.15z" />
+</g>
+<g id="PathID_1918" transform="matrix(1, 0, 0, 1, 8.9, 58.5)">
+<path style="fill:#5B4135;fill-opacity:1" d="M0.25 -46.1L2 -40.25Q2.3 -41.1 2.75 -40.95Q2.8 -40.1 2.45 -39.25L3.55 -34.5Q1.95 -31.95 -0.1 -33.95L-0.7 -35.85Q1.15 -37.1 0.25 -46.1" />
+<path style="fill:#665540;fill-opacity:1" d="M-0.7 -35.85L-3.15 -42.85L-4.1 -43.8L-3.3 -44.15L-4.7 -48.1Q-3.65 -50.7 -0.95 -49.6L0.25 -46.1Q1.15 -37.1 -0.7 -35.85" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M0.25 -46.1L2 -40.25Q2.3 -41.1 2.75 -40.95Q2.8 -40.1 2.45 -39.25L3.55 -34.5Q1.95 -31.95 -0.1 -33.95L-0.7 -35.85L-3.15 -42.85L-4.1 -43.8L-3.3 -44.15L-4.7 -48.1Q-3.65 -50.7 -0.95 -49.6L0.25 -46.1z" />
+</g>
+<g id="PathID_1919" transform="matrix(1, 0, 0, 1, 8.9, 58.5)">
+<path style="fill:#CBB79F;fill-opacity:1" d="M-5.95 -58.35L-3.4 -51.95L-2.95 -48.65L-4.45 -51.25L-5.95 -58.35" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M-5.95 -58.35L-3.4 -51.95L-2.95 -48.65L-4.45 -51.25L-5.95 -58.35z" />
+</g>
+<g id="PathID_1920" transform="matrix(1, 0, 0, 1, 8.9, 58.5)">
+<path style="fill:#5F771F;fill-opacity:1" d="M7.05 -31.2Q7.85 -32.1 8.5 -31.2Q8.7 -26.4 7.75 -20.8Q7.95 -26.5 7.1 -27.55L7.05 -31.2M0.95 -2.35Q1.65 -2.95 2.15 -2.2L0.65 1.3Q-0.7 2 -0.5 0.25L0.95 -2.35" />
+<path style="fill:#75912A;fill-opacity:1" d="M0.95 -2.35Q6.8 -13.4 7.1 -27.55Q7.95 -26.5 7.75 -20.8Q6.25 -12.35 2.15 -2.2Q1.65 -2.95 0.95 -2.35" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M2.15 -2.2Q6.25 -12.35 7.75 -20.8" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M7.1 -27.55Q6.8 -13.4 0.95 -2.35" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M2.15 -2.2L0.65 1.3Q-0.7 2 -0.5 0.25L0.95 -2.35" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M7.75 -20.8Q8.7 -26.4 8.5 -31.2Q7.85 -32.1 7.05 -31.2L7.1 -27.55" />
+</g>
+<g id="PathID_1921" transform="matrix(1, 0, 0, 1, 8.9, 58.5)">
+<path style="fill:#665540;fill-opacity:1" d="M5.4 -41.05L5.25 -44.4Q7.05 -46.25 8.6 -44.35L8.7 -40.5L9.45 -40.45L9 -39.35L9.2 -32.6Q7.4 -33.1 5.4 -41.05" />
+<path style="fill:#5B4135;fill-opacity:1" d="M5.4 -41.05Q7.4 -33.1 9.2 -32.6L9.3 -30.8Q8.35 -28.45 6.35 -30.05L5.75 -34.45Q5.2 -35.1 5 -35.8Q5.3 -36.1 5.8 -35.45L5.4 -41.05" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M9.2 -32.6L9 -39.35L9.45 -40.45L8.7 -40.5L8.6 -44.35Q7.05 -46.25 5.25 -44.4L5.4 -41.05" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M9.2 -32.6L9.3 -30.8Q8.35 -28.45 6.35 -30.05L5.75 -34.45Q5.2 -35.1 5 -35.8Q5.3 -36.1 5.8 -35.45L5.4 -41.05" />
+</g>
+<g id="PathID_1922" transform="matrix(1, 0, 0, 1, 8.9, 58.5)">
+<path style="fill:#CBB79F;fill-opacity:1" d="M6.45 -47.2L6.5 -53.5L7.5 -46.95L7.1 -44.25L6.45 -47.2" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M7.1 -44.25L7.5 -46.95L6.5 -53.5L6.45 -47.2L7.1 -44.25z" />
+</g>
+</svg>

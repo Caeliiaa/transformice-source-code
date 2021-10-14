@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="26px" height="26px"
+xml:space="preserve">
+<g id="PathID_4561" transform="matrix(1, 0, 0, 1, 12.65, 12.65)">
+<linearGradient
+id="LinearGradID_1985" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.0114746, 0.00961304, -0.0038147, 0.00637817, -1.45, -0.85)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.501961" />
+<stop  offset="0.172549" style="stop-color:#FFFFFF;stop-opacity:0.501961" />
+<stop  offset="0.282353" style="stop-color:#FFFFFF;stop-opacity:0.701961" />
+<stop  offset="0.619608" style="stop-color:#FFFFFF;stop-opacity:0.4" />
+<stop  offset="0.8" style="stop-color:#FFFFFF;stop-opacity:0.701961" />
+<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.501961" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_1985) " d="M-8.25 -12.5L12.5 5.55L10.3 5.95L10.7 7.35L9.7 7.1L10.05 9.4L8.95 9L9.2 10.8L7.95 10.8L8.3 12.3L-12.5 -5.8L-11.2 -5.8L-11.6 -7.2L-10.1 -7.45L-10.7 -8.65L-8.8 -8.9L-9.25 -10L-7.95 -9.9L-8.25 -12.5" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M-8.25 -12.5L12.5 5.55L10.3 5.95L10.7 7.35L9.7 7.1L10.05 9.4L8.95 9L9.2 10.8L7.95 10.8L8.3 12.3L-12.5 -5.8L-11.2 -5.8L-11.6 -7.2L-10.1 -7.45L-10.7 -8.65L-8.8 -8.9L-9.25 -10L-7.95 -9.9L-8.25 -12.5z" />
+</g>
+<g id="PathID_4562" transform="matrix(1, 0, 0, 1, 12.65, 12.65)">
+<linearGradient
+id="LinearGradID_1986" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.0114746, 0.00961304, 0.0038147, 0.00637817, 1.45, -0.85)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.501961" />
+<stop  offset="0.172549" style="stop-color:#FFFFFF;stop-opacity:0.501961" />
+<stop  offset="0.282353" style="stop-color:#FFFFFF;stop-opacity:0.701961" />
+<stop  offset="0.619608" style="stop-color:#FFFFFF;stop-opacity:0.4" />
+<stop  offset="0.8" style="stop-color:#FFFFFF;stop-opacity:0.701961" />
+<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.501961" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_1986) " d="M8.85 -8.9L10.75 -8.65L10.15 -7.45L11.6 -7.2L11.2 -5.8L12.5 -5.8L-8.25 12.3L-7.9 10.8L-9.15 10.8L-8.9 9L-10 9.4L-9.65 7.1L-10.65 7.35L-10.25 5.95L-12.5 5.55L8.3 -12.5L8 -9.9L9.3 -10L8.85 -8.9" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M9.3 -10L8 -9.9L8.3 -12.5L-12.5 5.55L-10.25 5.95L-10.65 7.35L-9.65 7.1L-10 9.4L-8.9 9L-9.15 10.8L-7.9 10.8L-8.25 12.3L12.5 -5.8L11.2 -5.8L11.6 -7.2L10.15 -7.45L10.75 -8.65L8.85 -8.9L9.3 -10z" />
+</g>
+</svg>

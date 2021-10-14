@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="23px" height="18px"
+xml:space="preserve">
+<g id="PathID_3718" transform="matrix(1, 0, 0, 1, 0.2, 0.2)">
+<path style="fill:#4F4F4F;fill-opacity:1" d="M7.95 1.05Q8.9 0.5 10.1 0L11.85 0.1Q16.75 0.65 18.9 2.6L18.05 3.35Q17.15 4.4 17.15 5.85Q17.15 7.3 18.05 8.4Q19 9.4 20.3 9.4L21.1 9.25Q23.45 15 20.55 16.5Q18.2 4.85 7.95 1.05" />
+<path style="fill:#CCCCCC;fill-opacity:1" d="M4.9 17.2Q3.75 17.5 2.35 16.7Q-1.85 14.45 1.4 8.45Q2.05 8.9 2.8 8.95Q-0.8 14.2 4.9 17.2M5.45 3.05L5.3 2.9L4.05 2.05Q5.1 1.2 6.6 0.65Q8.15 0.05 10.1 0Q8.9 0.5 7.95 1.05L5.45 3.05" />
+<path style="fill:#808080;fill-opacity:1" d="M2.8 8.95L3.1 9Q4.4 9 5.3 7.95Q6.25 6.95 6.25 5.4Q6.25 4.05 5.45 3.05L7.95 1.05Q18.2 4.85 20.55 16.5L19.8 16.8Q15.4 18.1 14.45 11.25Q11.3 13.05 8.3 11.35Q7.2 16.6 4.9 17.2Q-0.8 14.2 2.8 8.95" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.501961" d="M21.1 9.25L20.45 7.85Q21.15 4.75 18.9 2.6" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.501961" d="M21.1 9.25Q23.45 15 20.55 16.5L19.8 16.8Q15.4 18.1 14.45 11.25Q11.3 13.05 8.3 11.35Q7.2 16.6 4.9 17.2Q3.75 17.5 2.35 16.7Q-1.85 14.45 1.4 8.45L1.65 7.9Q1.3 4.15 4.05 2.05Q5.1 1.2 6.6 0.65Q8.15 0.05 10.1 0L11.85 0.1Q16.75 0.65 18.9 2.6" />
+</g>
+</svg>
