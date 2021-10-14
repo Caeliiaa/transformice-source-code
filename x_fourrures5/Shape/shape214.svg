@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="23px" height="45px"
+xml:space="preserve">
+<g id="PathID_143" transform="matrix(1, 0, 0, 1, 13.8, 25.6)">
+<linearGradient
+id="LinearGradID_37" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00300598, 0.0078125, -0.0205078, 0.00788879, 0.3, 3.65)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#3D3730;stop-opacity:1" />
+<stop  offset="1" style="stop-color:#FFEA8F;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_37) " d="M-3.45 2.45L-2.45 -1.55Q-0.55 -12.7 -8.75 -19.25Q1.05 -15.1 -0.05 -2.1Q-1.25 4.25 0.5 8.3Q1.35 10.25 2.9 11.65L3.1 11.8Q4.7 13.15 7.05 13.95Q7.85 15.25 8.05 16.6L8.1 16.8Q-3.8 15.5 -3.45 2.45" />
+<linearGradient
+id="LinearGradID_38" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00320435, 0.00665283, -0.00915527, 0.00442505, -0.5, 4.75)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#262420;stop-opacity:1" />
+<stop  offset="1" style="stop-color:#F1C272;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_38) " d="M8.1 16.8Q8.05 18.05 5.65 19.15Q2.7 18.3 0.2 16.35L-0.25 15.95Q-0.9 16.75 -3.9 16.4Q-4.55 14.75 -3.3 13.65Q-6.65 14.55 -7.3 12.95Q-7.5 10.1 -4.8 10.15Q-6.35 9.1 -6.85 6.35Q-5.75 7.6 -3.9 6.9L-3.45 2.45Q-3.8 15.5 8.1 16.8" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:5;stroke:#000000;stroke-opacity:0.4" d="M-3.45 2.45L-2.45 -1.55Q-0.55 -12.7 -8.75 -19.25Q1.05 -15.1 -0.05 -2.1Q-1.25 4.25 0.5 8.3Q1.35 10.25 2.9 11.65L3.1 11.8Q4.7 13.15 7.05 13.95Q7.85 15.25 8.05 16.6L8.1 16.8Q8.05 18.05 5.65 19.15Q2.7 18.3 0.2 16.35L-0.25 15.95Q-0.9 16.75 -3.9 16.4Q-4.55 14.75 -3.3 13.65Q-6.65 14.55 -7.3 12.95Q-7.5 10.1 -4.8 10.15Q-6.35 9.1 -6.85 6.35Q-5.75 7.6 -3.9 6.9L-3.45 2.45z" />
+</g>
+<g id="PathID_144" transform="matrix(1, 0, 0, 1, 13.8, 25.6)">
+<path style="fill:#FFFFFF;fill-opacity:1" d="M-6.9 -21.95Q-6.95 -22.75 -6.2 -23.8Q-5.45 -24.85 -4.55 -25.4Q-2.6 -23.8 -2.15 -21.95Q-1.75 -20.1 -2.4 -18.75Q-1.1 -19.25 0.75 -17.75Q0.05 -14.6 -2.6 -15.15Q-2.7 -14.7 -4.3 -13.85Q-5.15 -13.3 -5.85 -14.05Q-6.75 -14.95 -6.3 -16.35Q-9.65 -14.45 -10 -16.65Q-10.4 -18.9 -8.95 -20L-10.25 -20.25Q-12 -20.75 -13.05 -23.6Q-10 -25.45 -6.9 -21.95" />
+<path style="fill:#FFDEB5;fill-opacity:1" d="M-7.4 -11.8Q-8.45 -12.95 -7.65 -14.3Q-10.25 -14.1 -13.6 -15.85Q-12.25 -18.75 -10.2 -19.5Q-13.2 -20.65 -13.15 -23.45L-13.05 -23.6Q-12 -20.75 -10.25 -20.25L-8.95 -20Q-10.4 -18.9 -10 -16.65Q-9.65 -14.45 -6.3 -16.35Q-6.75 -14.95 -5.85 -14.05Q-5.15 -13.3 -4.3 -13.85Q-5.55 -11.6 -7.4 -11.8" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:5;stroke:#000000;stroke-opacity:0.4" d="M-13.05 -23.6L-13.15 -23.45Q-13.2 -20.65 -10.2 -19.5Q-12.25 -18.75 -13.6 -15.85Q-10.25 -14.1 -7.65 -14.3Q-8.45 -12.95 -7.4 -11.8Q-5.55 -11.6 -4.3 -13.85" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:5;stroke:#000000;stroke-opacity:0.4" d="M-2.6 -15.15Q0.05 -14.6 0.75 -17.75Q-1.1 -19.25 -2.4 -18.75Q-1.75 -20.1 -2.15 -21.95Q-2.6 -23.8 -4.55 -25.4Q-5.45 -24.85 -6.2 -23.8Q-6.95 -22.75 -6.9 -21.95Q-10 -25.45 -13.05 -23.6" />
+</g>
+</svg>

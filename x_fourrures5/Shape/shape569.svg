@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="23px" height="44px"
+xml:space="preserve">
+<g id="PathID_345" transform="matrix(1, 0, 0, 1, 14.2, 22.55)">
+<linearGradient
+id="LinearGradID_96" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.0014801, -0.00827026, 0.0160065, -0.00283813, -5.95, -2.3)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#42383C;stop-opacity:1" />
+<stop  offset="1" style="stop-color:#191715;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_96) " d="M-3.25 4.3Q-3.3 2.6 -2.95 0.9Q-1.45 -4.85 -2.5 -9L-3.25 -11.05Q-6.8 -17.15 -13.7 -17.45Q-10.85 -19.2 -7.05 -18.9Q-8.75 -20.4 -9.55 -22.25L-7.15 -21.1Q-4.25 -19.35 -2.9 -16.55L-2.7 -16.15Q-1.9 -18.05 -0.15 -18.25Q-1.9 -15 -0.75 -11.1L-0.6 -10.65Q0.75 -5.95 -0.45 0.75Q-0.6 2.75 -0.4 4.45L-3.25 4.3" />
+<path style="fill:#42383C;fill-opacity:1" d="M-3.25 4.3L-0.4 4.45Q0.4 11.4 6.95 13.7Q8.15 15.35 8.1 16.55Q0.9 15.7 -0.9 12.4Q-3.2 8.3 -3.25 4.3" />
+<path style="fill:#2B2731;fill-opacity:1" d="M-0.9 12.4Q0.9 15.7 8.1 16.55Q8.05 18.15 5.75 19L3.75 18.3Q2.35 19.65 0.45 20.5L1.45 17.4Q0.65 18.1 -1 18.1Q-2.85 18.2 -4.7 18.9L-1.7 15.85Q-4.2 15.8 -4.8 14.15Q-5.45 12.55 -6.3 11.4Q-7.2 10.25 -9 9.6Q-5.8 9.45 -3.3 11Q-4.5 7.15 -3.25 1.8L-2.95 0.9Q-3.3 2.6 -3.25 4.3Q-3.2 8.3 -0.9 12.4" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:5;stroke:#000000;stroke-opacity:0.4" d="M-0.4 4.45Q-0.6 2.75 -0.45 0.75Q0.75 -5.95 -0.6 -10.65L-0.75 -11.1Q-1.9 -15 -0.15 -18.25Q-1.9 -18.05 -2.7 -16.15L-2.9 -16.55Q-4.25 -19.35 -7.15 -21.1L-9.55 -22.25Q-8.75 -20.4 -7.05 -18.9Q-10.85 -19.2 -13.7 -17.45Q-6.8 -17.15 -3.25 -11.05L-2.5 -9Q-1.45 -4.85 -2.95 0.9" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:5;stroke:#000000;stroke-opacity:0.4" d="M-0.4 4.45Q0.4 11.4 6.95 13.7Q8.15 15.35 8.1 16.55Q8.05 18.15 5.75 19L3.75 18.3Q2.35 19.65 0.45 20.5L1.45 17.4Q0.65 18.1 -1 18.1Q-2.85 18.2 -4.7 18.9L-1.7 15.85Q-4.2 15.8 -4.8 14.15Q-5.45 12.55 -6.3 11.4Q-7.2 10.25 -9 9.6Q-5.8 9.45 -3.3 11Q-4.5 7.15 -3.25 1.8L-2.95 0.9" />
+</g>
+</svg>

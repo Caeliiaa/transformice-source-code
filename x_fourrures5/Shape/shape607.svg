@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="18px" height="14px"
+xml:space="preserve">
+<g id="PathID_358" transform="matrix(1, 0, 0, 1, 7.4, 6.9)">
+<radialGradient
+id="RadialGradID_99" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.0181274, 0, 0, 0.0135498, 4, -1.15)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0"  style="stop-color:#3D3338;stop-opacity:1" />
+<stop  offset="1"  style="stop-color:#231E20;stop-opacity:1" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_99) " d="M1.35 0.6L-6.15 0.4Q-6.6 -0.85 -6.4 -3.2Q-2.8 -1.65 3.1 -2.3Q-3.35 -4.2 -4.75 -5.4L-4.6 -5.5L-2.75 -6.6L-0.15 -6.9Q1.5 -6.8 2.85 -6.05Q3.85 -5.55 4.65 -4.65L4.8 -4.45L5.4 -3.75L6 -2.65L6.75 -0.35Q7.25 1.4 6.9 3.15L6.85 3.5L6.8 3.45Q1.45 4.65 -1.55 3.5L-3.95 2.45L-4.05 2.4Q-0.45 2 1.35 0.6" />
+<path style="fill:#171619;fill-opacity:1" d="M-3.95 2.45L-1.55 3.5Q1.45 4.65 6.8 3.45L6.85 3.5L8 4.8L10.5 6.55Q3.55 6.8 1 6.5L-3.85 5.6Q-6.15 5.1 -6.8 3.65L-7.1 2.7L-3.95 2.45M-6.15 0.4L-7.2 0.3L-7.2 0.1Q-7 -2.05 -6.4 -3.3L-6.4 -3.2Q-6.6 -0.85 -6.15 0.4" />
+<linearGradient
+id="LinearGradID_100" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.0207977, 0, 0, 1, -0.2, -6.3)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#D3BDC1;stop-opacity:1" />
+<stop  offset="1" style="stop-color:#483C42;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_100) " d="M3.1 -2.3Q-2.8 -1.65 -6.4 -3.2L-6.4 -3.3Q-5.9 -4.35 -5 -5.2L-4.75 -5.4Q-3.35 -4.2 3.1 -2.3M-4.05 2.4L-5.6 1.35L-6.15 0.4L1.35 0.6Q-0.45 2 -4.05 2.4" />
+<path style="fill:#524F63;fill-opacity:1" d="M-6.15 0.4L-5.6 1.35L-4.05 2.4L-3.95 2.45L-7.1 2.7Q-7.35 1.65 -7.2 0.3L-6.15 0.4" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:5;stroke:#000000;stroke-opacity:0.4" d="M1 6.5L-3.85 5.6Q-6.15 5.1 -6.8 3.65L-7.1 2.7Q-7.35 1.65 -7.2 0.3L-7.2 0.1Q-7 -2.05 -6.4 -3.3Q-5.9 -4.35 -5 -5.2L-4.75 -5.4" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:5;stroke:#000000;stroke-opacity:0.4" d="M-4.6 -5.5L-2.75 -6.6" />
+</g>
+</svg>
