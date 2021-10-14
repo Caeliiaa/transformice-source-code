@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="13px" height="12px"
+xml:space="preserve">
+<g id="PathID_1695" transform="matrix(1, 0, 0, 1, 0.1, 0.1)">
+<path style="fill:#808080;fill-opacity:1" d="M9.4 0.05L10 0.05Q10.7 0.3 11.6 1.3Q12.1 1.4 12.2 1.9Q12.3 2.7 11.25 2.75L10.55 2.85L9.7 3.15Q8.9 1.55 9.4 0.05" />
+<radialGradient
+id="RadialGradID_495" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00314331, 0, 0, 0.00326538, 9.85, 1.85)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0.615686"  style="stop-color:#808080;stop-opacity:1" />
+<stop  offset="1"  style="stop-color:#5F5F5F;stop-opacity:1" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_495) " d="M6.6 7.65Q7.05 6.6 6.55 5.45Q6 4.25 7.05 2.25Q8.05 0.15 9.4 0.05Q8.9 1.55 9.7 3.15Q9 3.25 8.7 2.9Q8.25 4.35 9.1 6Q9.9 7.5 7.85 9.45Q6.6 9.4 6.6 7.65M8.5 2.6L8.7 2.9L8.5 2.6" />
+<path style="fill:#333531;fill-opacity:1" d="M7.85 9.45L6.3 10.7Q4.1 11.15 2.9 10.35Q-0.55 7.45 0.1 2.25Q0.8 -0.15 2.95 1.25Q3.9 1.75 3.25 5.05Q2.9 6.75 3.1 7.55Q4.55 11.3 6.6 7.65Q6.6 9.4 7.85 9.45M0.85 2.75Q1.95 2.8 3.25 5.05Q1.95 2.8 0.85 2.75" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.301961" d="M9.4 0.05L10 0.05Q10.7 0.3 11.6 1.3Q12.1 1.4 12.2 1.9Q12.3 2.7 11.25 2.75L10.55 2.85L9.7 3.15Q9 3.25 8.7 2.9Q8.25 4.35 9.1 6Q9.9 7.5 7.85 9.45L6.3 10.7Q4.1 11.15 2.9 10.35Q-0.55 7.45 0.1 2.25Q0.8 -0.15 2.95 1.25Q3.9 1.75 3.25 5.05Q2.9 6.75 3.1 7.55Q4.55 11.3 6.6 7.65Q7.05 6.6 6.55 5.45Q6 4.25 7.05 2.25Q8.05 0.15 9.4 0.05z" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.301961" d="M8.7 2.9L8.5 2.6" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.301961" d="M3.25 5.05Q1.95 2.8 0.85 2.75" />
+</g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="21px" height="20px"
+xml:space="preserve">
+<g id="PathID_1507" transform="matrix(1, 0, 0, 1, 0, 0)">
+<linearGradient
+id="LinearGradID_415" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.000579834, 0.00680542, -0.00445557, 0.00038147, 8.35, 4.6)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#AFAFAF;stop-opacity:1" />
+<stop  offset="1" style="stop-color:#808080;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_415) " d="M1.5 7.2Q1.9 6 3.3 5.7L5.15 5.75Q2.85 2.35 4.7 1.65L5.6 2.95Q6.95 4.65 8.95 5.45Q10.95 6.25 13.15 6.45Q15.3 6.6 15.75 8.85L14.95 9Q14.15 8.2 13.15 8.3L11.35 8.45L6.55 7.85L3.75 8.2Q1.1 8.55 1.5 7.2M19.9 7.05L18.75 7.55Q18.05 7.7 17.3 8.15L16.75 8.65L16.3 8.25Q16.55 7.5 17.2 7.05L20 5.65L19.9 7.05" />
+<path style="fill:#4F4943;fill-opacity:1" d="M3.75 8.2L2.8 8.5L1.35 9.05L0 10Q-0.15 6.7 3.3 4.3Q2.35 2.25 3.7 0.05Q5.2 -0.25 4.35 1.2L4.7 1.65Q2.85 2.35 5.15 5.75L3.3 5.7Q1.9 6 1.5 7.2Q1.1 8.55 3.75 8.2M17.3 8.15Q18.05 7.7 18.75 7.55L19.9 7.05L19.45 8.05Q19.15 8.45 18.2 8.65Q17.3 8.75 17.05 9L16.75 8.65L17.3 8.15" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M4.7 1.65L5.6 2.95Q6.95 4.65 8.95 5.45Q10.95 6.25 13.15 6.45Q15.3 6.6 15.75 8.85L14.95 9Q14.15 8.2 13.15 8.3L11.35 8.45L6.55 7.85L3.75 8.2L2.8 8.5L1.35 9.05L0 10Q-0.15 6.7 3.3 4.3Q2.35 2.25 3.7 0.05Q5.2 -0.25 4.35 1.2L4.7 1.65z" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M16.75 8.65L17.05 9Q17.3 8.75 18.2 8.65Q19.15 8.45 19.45 8.05L19.9 7.05" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M16.75 8.65L16.3 8.25Q16.55 7.5 17.2 7.05L20 5.65L19.9 7.05" />
+</g>
+<g id="PathID_1508" transform="matrix(1, 0, 0, 1, 0, 0)">
+<path style="fill:#888888;fill-opacity:1" d="M19.65 15.05Q19.65 14.05 17.85 13.25Q16 12.4 15.55 11.75L15.5 11.65L15.35 10.6L16.6 10.6Q17.4 10.95 19 12.05Q20.15 12.95 20.15 14.25Q20.15 15.05 19.65 15.9L19.65 15.05M18.25 17.5Q17.35 18.2 16.5 18.6Q17.45 17.75 17.45 15.3L17.45 15.2Q18.25 16 18.25 17.15L18.25 17.5" />
+<path style="fill:#4F4943;fill-opacity:1" d="M18.25 17.15Q18.25 16 17.45 15.2Q17.4 14.35 16.3 13L15.55 11.75Q16 12.4 17.85 13.25Q19.65 14.05 19.65 15.05L19.65 15.9L18.7 17.05L18.25 17.5L18.25 17.15" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M15.55 11.75L15.5 11.65L15.35 10.6L16.6 10.6Q17.4 10.95 19 12.05Q20.15 12.95 20.15 14.25Q20.15 15.05 19.65 15.9L18.7 17.05L18.25 17.5Q17.35 18.2 16.5 18.6Q17.45 17.75 17.45 15.3L17.45 15.2Q17.4 14.35 16.3 13L15.55 11.75Q16 12.4 17.85 13.25Q19.65 14.05 19.65 15.05L19.65 15.9" />
+</g>
+<g id="PathID_1509" transform="matrix(1, 0, 0, 1, 0, 0)">
+<path style="fill:#898989;fill-opacity:1" d="M13 14.15Q11.15 14.65 11.25 16.75Q10.75 15.55 10.75 14.8Q10.75 13.4 11.6 12.2Q12.35 11.15 13.9 10.8L14.5 10.8Q15.15 10.95 15.4 11.75L15.5 12Q15.25 13.45 13 14.15M13.2 16.15Q12.75 16.9 12.75 17.95L12.95 19.5L11.55 17.45L11.5 17.35L11.85 16.65Q12.25 16.1 13 16.1L13.2 16.15" />
+<path style="fill:#4F4943;fill-opacity:1" d="M13 16.1Q12.25 16.1 11.85 16.65L11.5 17.35L11.25 16.75Q11.15 14.65 13 14.15Q15.25 13.45 15.5 12L15.6 12.7Q15.6 14.15 14.2 15.1Q13.55 15.5 13.2 16.15L13 16.1" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M15.5 12L15.4 11.75Q15.15 10.95 14.5 10.8L13.9 10.8Q12.35 11.15 11.6 12.2Q10.75 13.4 10.75 14.8Q10.75 15.55 11.25 16.75Q11.15 14.65 13 14.15Q15.25 13.45 15.5 12L15.6 12.7Q15.6 14.15 14.2 15.1Q13.55 15.5 13.2 16.15Q12.75 16.9 12.75 17.95L12.95 19.5L11.55 17.45L11.5 17.35L11.25 16.75" />
+</g>
+</svg>

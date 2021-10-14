@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="10px" height="10px"
+xml:space="preserve">
+<g id="PathID_192" transform="matrix(1, 0, 0, 1, 0, 0)">
+<path style="fill:#4F4943;fill-opacity:1" d="M6.15 4.05L6.25 3.45L6.25 2.95L6.5 2.55L7.5 0.75L7.75 0.55Q8.8 1.45 8.7 2L7 3.55L6.15 4.05M6.7 6.4L6.95 6.55L6.7 6.4L7.05 6.5L7.85 6.7Q8.8 6.7 8.8 5.3Q8.8 4.2 8.1 3.15L8.45 3.1Q9.8 3.1 9.75 5.15Q9.4 7.35 8.85 7.55Q7.85 7.25 6.95 6.55Q7.95 7.55 7.4 8.55Q7.35 9.1 5.55 9.85Q3.35 9.95 3.5 9.1L4.05 9.25L4.95 9.4Q5.8 9.4 6.35 8.8Q6.85 8.25 6.85 7.5L6.7 6.4" />
+<path style="fill:#A3A3A3;fill-opacity:1" d="M6.4 1Q5.55 1 5.3 0.55L5.25 0.6L4.25 1.75Q4.4 0.9 4.65 0.6Q5.45 -0.4 7.3 0.25L7.75 0.55L7.5 0.75L6.4 1M0.6 2.6Q0.8 1.05 2.6 0.35Q3.5 -0.1 3.85 1.15L4.05 2.1L3.3 1.15L3.3 1.2Q3.25 2.05 2.5 2.05L2.15 1.7L2.05 1.3L1 2.2L0.6 2.6" />
+<path style="fill:#808080;fill-opacity:1" d="M1 2.2L2.05 1.3L2.15 1.7L2.5 2.05Q3.25 2.05 3.3 1.2L3.3 1.15L4.05 2.1L4.15 2.65L4.25 1.75L5.25 0.6L5.3 0.55Q5.55 1 6.4 1L7.5 0.75L6.5 2.55L6.25 2.95L6.25 3.45L6.15 4.05L7 3.55L8.1 3.15Q8.8 4.2 8.8 5.3Q8.8 6.7 7.85 6.7L7.05 6.5L6.7 6.4L6.85 7.5Q6.85 8.25 6.35 8.8Q5.8 9.4 4.95 9.4L4.05 9.25L3.5 9.1L3.5 9.05Q3.55 8 4.35 5.95L4 6.65Q3.2 8.15 2.4 8.3Q1.05 8.3 0 5.7Q-0.15 4 0.85 4.05L0.65 3.75L0.6 2.6L1 2.2M5.5 5.15L6.1 5.85L6.7 6.4L6.1 5.85L5.5 5.15M5.75 4.3L6.15 4.05L5.75 4.3M3.45 4.65Q4.3 4.6 4.6 3.8L4.25 3.1L4.15 2.65L4.25 3.1L4.6 3.8Q4.3 4.6 3.45 4.65M2.75 4.65Q1.25 4.55 0.85 4.05Q1.25 4.55 2.75 4.65" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M7 3.55L8.7 2Q8.8 1.45 7.75 0.55" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M6.15 4.05L7 3.55L8.1 3.15L8.45 3.1Q9.8 3.1 9.75 5.15Q9.4 7.35 8.85 7.55Q7.85 7.25 6.95 6.55Q7.95 7.55 7.4 8.55Q7.35 9.1 5.55 9.85Q3.35 9.95 3.5 9.1L3.5 9.05Q3.55 8 4.35 5.95L4 6.65Q3.2 8.15 2.4 8.3Q1.05 8.3 0 5.7Q-0.15 4 0.85 4.05L0.65 3.75L0.6 2.6Q0.8 1.05 2.6 0.35Q3.5 -0.1 3.85 1.15L4.05 2.1L4.15 2.65L4.25 1.75Q4.4 0.9 4.65 0.6Q5.45 -0.4 7.3 0.25L7.75 0.55" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M6.7 6.4L6.1 5.85L5.5 5.15" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M6.15 4.05L5.75 4.3" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M6.7 6.4L6.95 6.55" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M4.15 2.65L4.25 3.1L4.6 3.8Q4.3 4.6 3.45 4.65" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M0.85 4.05Q1.25 4.55 2.75 4.65" />
+</g>
+</svg>

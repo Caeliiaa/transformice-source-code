@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="28px" height="11px"
+xml:space="preserve">
+<g id="PathID_1705" transform="matrix(1, 0, 0, 1, 0.1, 0.05)">
+<path style="fill:#4F4F4F;fill-opacity:1" d="M21.9 9.9Q22.3 10.85 21.2 10.75L20.6 10.5Q20.25 9.7 21.3 9.85L21.9 9.9" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.301961" d="M21.9 9.9Q22.3 10.85 21.2 10.75L20.6 10.5" />
+</g>
+<g id="PathID_1706" transform="matrix(1, 0, 0, 1, 0.1, 0.05)">
+<linearGradient
+id="LinearGradID_506" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.000869751, -0.000244141, 0.000167847, 0.000717163, 1.05, 0.55)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0.396078" style="stop-color:#808080;stop-opacity:1" />
+<stop  offset="1" style="stop-color:#515151;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_506) " d="M0.25 0.05L1.35 0L2.1 0Q2.05 0.8 1.15 1.25L0.45 1.25Q-0.35 0.85 0.25 0.05" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.301961" d="M1.15 1.25L0.45 1.25Q-0.35 0.85 0.25 0.05" />
+</g>
+<g id="PathID_1707" transform="matrix(1, 0, 0, 1, 0.1, 0.05)">
+<path style="fill:#808080;fill-opacity:1" d="M27.55 4.35L27.3 4.4L26.75 3.8L26.3 3.2Q26.5 3.2 26.95 3.55L27.55 4.35" />
+</g>
+</svg>

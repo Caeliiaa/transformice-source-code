@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="17px" height="8px"
+xml:space="preserve">
+<g id="PathID_3029" transform="matrix(1, 0, 0, 1, 9.4, 10.25)">
+<path style="fill:#5D340C;fill-opacity:1" d="M4.35 -9L-0.5 -9.15L-0.6 -9.65Q1.95 -10.55 4.7 -9.55L4.35 -9" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.388235" d="M4.35 -9L-0.5 -9.15L-0.6 -9.65Q1.95 -10.55 4.7 -9.55L4.35 -9z" />
+</g>
+<g id="PathID_3030" transform="matrix(1, 0, 0, 1, 9.4, 10.25)">
+<path style="fill:#7E4A18;fill-opacity:1" d="M6.15 -9.05L6.7 -8.8Q4.8 -6.55 2.15 -6L2 -6.5Q4.3 -7.2 6.15 -9.05" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.388235" d="M2 -6.5L2.15 -6Q4.8 -6.55 6.7 -8.8L6.15 -9.05Q4.3 -7.2 2 -6.5z" />
+</g>
+<g id="PathID_3031" transform="matrix(1, 0, 0, 1, 9.4, 10.25)">
+<path style="fill:#5D340C;fill-opacity:1" d="M-2.1 -5.55L-2.45 -5L-7.3 -5.15L-7.4 -5.65Q-4.85 -6.55 -2.1 -5.55" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.388235" d="M-2.1 -5.55L-2.45 -5L-7.3 -5.15L-7.4 -5.65Q-4.85 -6.55 -2.1 -5.55z" />
+</g>
+<g id="PathID_3032" transform="matrix(1, 0, 0, 1, 9.4, 10.25)">
+<path style="fill:#7E4A18;fill-opacity:1" d="M-9.1 -5.25L-9.25 -5.75Q-6.95 -6.45 -5.1 -8.3L-4.55 -8.05Q-6.45 -5.8 -9.1 -5.25" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.388235" d="M-4.55 -8.05L-5.1 -8.3Q-6.95 -6.45 -9.25 -5.75L-9.1 -5.25Q-6.45 -5.8 -4.55 -8.05z" />
+</g>
+<g id="PathID_3033" transform="matrix(1, 0, 0, 1, 9.4, 10.25)">
+<path style="fill:#7E4A18;fill-opacity:1" d="M-6.75 -3.5Q-4.45 -4.2 -2.6 -6.05L-2.05 -5.8Q-3.95 -3.55 -6.6 -3L-6.75 -3.5" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.388235" d="M-6.6 -3Q-3.95 -3.55 -2.05 -5.8L-2.6 -6.05Q-4.45 -4.2 -6.75 -3.5L-6.6 -3z" />
+</g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="16px" height="12px"
+xml:space="preserve">
+<g id="PathID_1701" transform="matrix(1, 0, 0, 1, 0.1, 0.1)">
+<path style="fill:#4F4F4F;fill-opacity:1" d="M15 2.75L14.85 3.55Q14 4.45 13.1 4.25L10.7 3.8Q8.3 10.8 5.5 11.3Q2.7 11.85 2.15 9.85Q1.6 7.9 0 7.9L0.9 7.35Q1.75 7.25 2.55 8.45Q3.15 10.1 5.05 10.25Q7.05 10.3 10.7 3.8L9.8 3.2Q13.95 4.3 15 2.75" />
+<radialGradient
+id="RadialGradID_499" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00538635, -0.00967407, 0.00534058, 0.0032196, 10.35, 6.95)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0.607843"  style="stop-color:#808080;stop-opacity:1" />
+<stop  offset="1"  style="stop-color:#515151;stop-opacity:1" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_499) " d="M9.8 3.2L10.7 3.8Q7.05 10.3 5.05 10.25Q3.15 10.1 2.55 8.45Q1.75 7.25 0.9 7.35Q2.25 6.7 3.6 8.2Q4.95 9.65 6.15 7.95L8 2.35Q9.25 -0.75 11.7 0.25L12.6 0.8Q13.4 0.65 13.6 1.7Q14.85 1.95 15 2.75Q13.95 4.3 9.8 3.2" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#130A0D;stroke-opacity:0.301961" d="M0.9 7.35Q2.25 6.7 3.6 8.2Q4.95 9.65 6.15 7.95L8 2.35Q9.25 -0.75 11.7 0.25L12.6 0.8Q13.4 0.65 13.6 1.7Q14.85 1.95 15 2.75L14.85 3.55Q14 4.45 13.1 4.25L10.7 3.8Q8.3 10.8 5.5 11.3Q2.7 11.85 2.15 9.85Q1.6 7.9 0 7.9L0.9 7.35z" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#130A0D;stroke-opacity:0.301961" d="M10.7 3.8L9.8 3.2" />
+</g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="12px" height="10px"
+xml:space="preserve">
+<g id="PathID_1109" transform="matrix(1, 0, 0, 1, 0.15, 0.15)">
+<path style="fill:#808080;fill-opacity:1" d="M10.15 6.55Q11.5 6.85 10.95 7.6L2.9 9.65L2.5 9.2L10.15 6.55M8.35 3.65Q9.9 3.65 9.5 5.25L1.7 8.2L1.2 7.4L8.35 3.65M6.2 0Q7.95 0.2 7.25 1.9L0.65 6.4L0 4.9L0.6 4.45L1.15 4.5Q2.15 4.5 2.25 3.85L2.9 3.5L3 2.55L6.2 0" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M10.15 6.55Q11.5 6.85 10.95 7.6L2.9 9.65L2.5 9.2" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M8.35 3.65Q9.9 3.65 9.5 5.25" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M1.7 8.2L1.2 7.4" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M6.2 0Q7.95 0.2 7.25 1.9" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M0.65 6.4L0 4.9" />
+</g>
+</svg>

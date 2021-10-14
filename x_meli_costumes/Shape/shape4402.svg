@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="27px" height="13px"
+xml:space="preserve">
+<g id="PathID_3101" transform="matrix(1, 0, 0, 1, 0.15, 0.15)">
+<path style="fill:#4F4943;fill-opacity:1" d="M12.05 0Q12.15 6 16.5 10L15.9 11.4Q12.7 10.3 8.8 9.55Q4.9 8.8 0 10.55Q5.05 3.65 12.05 0" />
+<linearGradient
+id="LinearGradID_993" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.00483704, -0.00695801, 0.00500488, -0.003479, 18.5, 4.45)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#808080;stop-opacity:1" />
+<stop  offset="1" style="stop-color:#BFBFBF;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_993) " d="M12.05 0L16.9 1.2Q17.75 2.25 17.2 3.9Q18.15 2.9 17.9 1.55L19.45 2.2Q20.2 3.25 19.85 4.45Q20.85 3.75 20.55 2.6L25.4 5.3L25.9 5.6Q26.1 7 25.65 8.05Q22.05 5.9 19.15 5.9Q17.45 7.85 16.5 10Q12.15 6 12.05 0" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.301961" d="M16.5 10Q17.45 7.85 19.15 5.9Q22.05 5.9 25.65 8.05Q26.1 7 25.9 5.6L25.4 5.3L20.55 2.6Q20.85 3.75 19.85 4.45Q20.2 3.25 19.45 2.2L17.9 1.55Q18.15 2.9 17.2 3.9Q17.75 2.25 16.9 1.2L12.05 0" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.301961" d="M16.5 10L15.9 11.4Q12.7 10.3 8.8 9.55Q4.9 8.8 0 10.55Q5.05 3.65 12.05 0" />
+</g>
+<g id="PathID_3102" transform="matrix(1, 0, 0, 1, 0.15, 0.15)">
+<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#808080;stroke-opacity:0.721569" d="M24.1 10.55Q22.35 10.65 21.5 9.3Q21.25 10.9 20.2 11.6" />
+<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#808080;stroke-opacity:0.721569" d="M20.3 7.25Q21.45 8.25 21.5 9.3" />
+<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#808080;stroke-opacity:0.721569" d="M22.8 7.3L22.6 8.2" />
+<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#808080;stroke-opacity:0.721569" d="M18 8.35L19.05 8.7" />
+</g>
+</svg>

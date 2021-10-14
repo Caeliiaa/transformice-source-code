@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="8px" height="10px"
+xml:space="preserve">
+<g id="PathID_1703" transform="matrix(1, 0, 0, 1, 0.1, 0.1)">
+<radialGradient
+id="RadialGradID_501" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00169373, -0.000473022, 0.000457764, 0.00175476, 2, 1.55)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0.196078"  style="stop-color:#878787;stop-opacity:1" />
+<stop  offset="1"  style="stop-color:#5F5F5F;stop-opacity:1" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_501) " d="M3.85 2.95Q6.15 2.45 5.4 5Q4.45 6.7 3.5 7L2.65 7.5Q2.8 5.8 4.8 4.85L5.1 4.35Q5.35 3.6 4.6 3.45Q0.9 3.8 0.1 2.1Q-0.5 0.9 1.8 0.7Q1.25 3.45 3.85 2.95" />
+<radialGradient
+id="RadialGradID_502" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00514221, 0.00309753, -0.00404358, 0.00724792, 3.85, 2.1)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0.517647"  style="stop-color:#808080;stop-opacity:1" />
+<stop  offset="1"  style="stop-color:#5F5F5F;stop-opacity:1" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_502) " d="M2.65 7.5L3.5 7Q4.45 6.7 5.4 5Q6.15 2.45 3.85 2.95Q1.25 3.45 1.8 0.7Q2.4 -0.2 3.1 0.3Q4.65 -0.85 6.85 2.45Q8.3 4.85 6.05 6.65L2.95 9.15L1.15 9.1Q1.6 8.2 2.65 7.5" />
+<path style="fill:#333531;fill-opacity:1" d="M1.15 9.1Q0.75 8.35 1.7 6.1Q3 3.85 5.1 4.35L4.8 4.85Q2.8 5.8 2.65 7.5Q1.6 8.2 1.15 9.1" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.301961" d="M1.8 0.7Q-0.5 0.9 0.1 2.1Q0.9 3.8 4.6 3.45Q5.35 3.6 5.1 4.35L4.8 4.85Q2.8 5.8 2.65 7.5" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.301961" d="M1.8 0.7Q2.4 -0.2 3.1 0.3Q4.65 -0.85 6.85 2.45Q8.3 4.85 6.05 6.65L2.95 9.15L1.15 9.1Q0.75 8.35 1.7 6.1Q3 3.85 5.1 4.35" />
+</g>
+</svg>

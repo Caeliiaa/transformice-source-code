@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="22px" height="9px"
+xml:space="preserve">
+<g id="PathID_1045" transform="matrix(1, 0, 0, 1, 0.1, 0.1)">
+<linearGradient
+id="LinearGradID_263" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.000183105, 0.000473022, -0.00151062, 0.000549316, 14.95, 2.8)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#808080;stop-opacity:1" />
+<stop  offset="1" style="stop-color:#6B6966;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_263) " d="M12.45 3.8L12.1 3.1L19.2 0.4L20.65 0.85L17.15 2.15L17.05 2.2L12.45 3.8" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M17.05 2.2L17.15 2.15L20.65 0.85L19.2 0.4L12.1 3.1L12.45 3.8L17.05 2.2z" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M20.65 0.85L21.35 1" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M19.2 0.4L20.3 0" />
+</g>
+<g id="PathID_1046" transform="matrix(1, 0, 0, 1, 0.1, 0.1)">
+<linearGradient
+id="LinearGradID_264" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.000473022, 0.000915527, -0.00198364, 0.0010376, 3.9, 6.55)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#808080;stop-opacity:1" />
+<stop  offset="1" style="stop-color:#6B6966;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_264) " d="M0.6 8.3L0.05 8.2L0.1 7.75L6.65 5L7.85 5.8L0.6 8.3" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M0.6 8.3L0.05 8.2L0.1 7.75L6.65 5L7.85 5.8L0.6 8.3z" />
+</g>
+</svg>

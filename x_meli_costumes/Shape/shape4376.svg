@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="9px" height="14px"
+xml:space="preserve">
+<g id="PathID_3083" transform="matrix(1, 0, 0, 1, 1.7, 24.45)">
+<radialGradient
+id="RadialGradID_978" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00430298, -0.00120544, 0.00201416, 0.00784302, 2.4, -17.8)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0"  style="stop-color:#FFFDF5;stop-opacity:0.878431" />
+<stop  offset="0.14902"  style="stop-color:#FFD202;stop-opacity:0.701961" />
+<stop  offset="0.392157"  style="stop-color:#F79331;stop-opacity:0.541176" />
+<stop  offset="0.615686"  style="stop-color:#FCC86F;stop-opacity:0.141176" />
+<stop  offset="1"  style="stop-color:#FFDD87;stop-opacity:0" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_978) " d="M6.15 -13.9Q5.6 -11.75 4.05 -11.35Q2.5 -10.9 0.9 -12.4Q-0.65 -14.05 -1.35 -16.7Q-2 -19.4 -1.4 -21.65Q-0.8 -23.9 0.7 -24.35Q2.25 -24.75 3.85 -23.15Q5.4 -21.5 6.05 -18.85Q6.75 -16.15 6.15 -13.9" />
+</g>
+<g id="PathID_3084" transform="matrix(1, 0, 0, 1, 1.7, 24.45)">
+<linearGradient
+id="LinearGradID_979" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.000732422, 0.00292969, -0.00285339, 0.000793457, 2.35, -17.85)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#F35225;stop-opacity:1" />
+<stop  offset="0.988235" style="stop-color:#FFE362;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_979) " d="M3.05 -17.45Q2.35 -18.05 2.05 -18.9L2.05 -18.85L2.55 -16.7Q2.1 -16.7 1.95 -17.95Q1.7 -16.35 3.05 -15.95Q1.6 -15.8 1.45 -17.35Q1.35 -18.05 1.4 -18.7L1.7 -20Q2.1 -21.7 1.3 -23.3Q2.7 -21.45 2.5 -19.55L2.6 -19.05L2.8 -18.75L3.4 -18Q4 -17.2 3.9 -16.75L3.35 -16.25Q3.55 -16.95 3.05 -17.45" />
+<path style="fill:#FFF1B4;fill-opacity:1" d="M3.05 -15.95Q1.7 -16.35 1.95 -17.95Q2.1 -16.7 2.55 -16.7L2.05 -18.85L2.05 -18.9Q2.35 -18.05 3.05 -17.45Q3.55 -16.95 3.35 -16.25L3.05 -15.95" />
+</g>
+</svg>

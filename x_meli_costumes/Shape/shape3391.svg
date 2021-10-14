@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="21px" height="17px"
+xml:space="preserve">
+<g id="PathID_2330" transform="matrix(1, 0, 0, 1, 0.15, 0.15)">
+<path style="fill:#808080;fill-opacity:1" d="M9.6 2.75Q11.05 4.25 12 7.85L12.25 8.85Q14.4 8.65 16.3 6.75Q20.6 7.6 19.95 12.05Q18.05 16.95 12.9 15.15Q10.4 14.3 8.9 15.95Q2.8 12.55 0 15.6Q-0.1 13.2 1.6 11.9L2.6 11Q3.35 11.95 4.8 11.7Q3.75 9.95 3.3 8.45Q2.6 6.2 3.2 4.35Q4.25 1.35 7.45 1.75Q8.65 1.85 9.6 2.75Q9.95 0.5 11.45 0.1Q12.05 -0.05 12.8 0.1L13.55 0.5L14.55 1.4Q13.45 4.95 12 7.85Q11.05 4.25 9.6 2.75" />
+<path style="fill:#56524F;fill-opacity:1" d="M12.25 8.85L12 7.85Q13.45 4.95 14.55 1.4Q16 3.35 16.3 6.75Q14.4 8.65 12.25 8.85M2.6 11Q3.55 9.8 3.3 8.45Q3.75 9.95 4.8 11.7Q3.35 11.95 2.6 11" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M3.3 8.45Q2.6 6.2 3.2 4.35Q4.25 1.35 7.45 1.75Q8.65 1.85 9.6 2.75Q9.95 0.5 11.45 0.1Q12.05 -0.05 12.8 0.1L13.55 0.5L14.55 1.4Q16 3.35 16.3 6.75Q20.6 7.6 19.95 12.05Q18.05 16.95 12.9 15.15Q10.4 14.3 8.9 15.95" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M0 15.6Q-0.1 13.2 1.6 11.9L2.6 11Q3.55 9.8 3.3 8.45Q3.75 9.95 4.8 11.7" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M12 7.85L12.25 8.85" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M9.6 2.75Q11.05 4.25 12 7.85" />
+</g>
+<g id="PathID_2331" transform="matrix(1, 0, 0, 1, 0.15, 0.15)">
+<radialGradient
+id="RadialGradID_708" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.0043335, 0, 0, 0.0043335, 5.95, 3.75)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0.145098"  style="stop-color:#B1B1B1;stop-opacity:1" />
+<stop  offset="1"  style="stop-color:#AAAAAA;stop-opacity:0" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_708) " d="M4.2 2.95Q5.3 1.95 6.75 1.95Q8.2 1.95 9.25 2.95Q10.25 4 10.25 5.5Q10.25 6.95 9.25 8Q8.2 9.05 6.75 9.05Q5.3 9.05 4.2 8Q3.2 6.95 3.2 5.5Q3.2 4 4.2 2.95" />
+</g>
+</svg>

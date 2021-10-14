@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="17px" height="19px"
+xml:space="preserve">
+<g id="PathID_2999" transform="matrix(1, 0, 0, 1, 0.1, 0.1)">
+<radialGradient
+id="RadialGradID_946" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.0132599, 0, 0, 0.0132599, 9, 6.1)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0.00392157"  style="stop-color:#BDBDBD;stop-opacity:1" />
+<stop  offset="1"  style="stop-color:#6B6B6B;stop-opacity:1" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_946) " d="M12.3 10.3Q12.3 9.75 10.1 7.9Q7.95 6.1 7.2 6.1L6.5 6.5L6.45 6.9L6.95 8.1L7.65 9.3Q7.65 9.6 8.6 10.5Q9.8 11.6 11.1 11.6Q12.3 11.6 12.3 10.3M4.35 5.4L5.45 4.35Q12.7 6.05 16.4 14.25L10.1 17.9L6.5 16.55Q3.6 11.7 4.35 5.4" />
+<path style="fill:#BDBDBD;fill-opacity:1" d="M11.1 11.6Q9.8 11.6 8.6 10.5Q7.65 9.6 7.65 9.3L6.95 8.1L6.45 6.9L6.5 6.5L7.2 6.1Q7.95 6.1 10.1 7.9Q12.3 9.75 12.3 10.3Q12.3 11.6 11.1 11.6M3.55 1.55L2.95 1.8Q2.4 1.8 2.15 1.15L1.95 0.5Q1.95 0.1 2.85 0.5Q3.75 0.95 3.75 1.25L3.55 1.55" />
+<path style="fill:#808080;fill-opacity:1" d="M3.75 1.25Q3.75 0.95 2.85 0.5Q1.95 0.1 1.95 0.5L2.15 1.15Q2.4 1.8 2.95 1.8L3.55 1.55L3.75 1.25M1.6 3.95Q0.65 2.3 1.2 0.05Q3.15 -0.2 5.05 1.2Q4.35 2.6 1.6 3.95" />
+<path style="fill:#504E4B;fill-opacity:1" d="M5.05 1.2Q5.6 2.7 5.45 4.35L4.35 5.4Q3.6 11.7 6.5 16.55L1.8 14.75Q1.25 10.2 2 6.05Q0.5 5.15 0 4.15Q-0.05 2.15 1.2 0.05Q0.65 2.3 1.6 3.95Q4.35 2.6 5.05 1.2" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.388235" d="M1.8 14.75Q1.25 10.2 2 6.05Q0.5 5.15 0 4.15Q-0.05 2.15 1.2 0.05Q3.15 -0.2 5.05 1.2Q5.6 2.7 5.45 4.35Q12.7 6.05 16.4 14.25L10.1 17.9L6.5 16.55L1.8 14.75L1.85 15.1" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.388235" d="M5.45 4.35L4.35 5.4" />
+</g>
+</svg>

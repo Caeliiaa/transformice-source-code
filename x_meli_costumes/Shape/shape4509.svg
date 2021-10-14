@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="21px" height="15px"
+xml:space="preserve">
+<g id="PathID_3188" transform="matrix(1, 0, 0, 1, 0, 0)">
+<path style="fill:#565555;fill-opacity:1" d="M13 5.8Q14.7 6.4 15.3 6.9L16 4.85L16.05 4.65L15.95 2.85L17.9 3.8L17.15 5.25L17.9 3.8L18.65 5.7L17.45 7.3L18.65 5.7Q18.6 6.25 19 6.8Q19.55 7.5 20.6 7L20.3 8.85Q17.85 7.65 14.8 8.05L15.3 6.9Q14.7 6.4 13 5.8M9.95 7.05Q6.65 7.55 4.15 8.7Q2.3 9.6 1.05 11.05Q2.3 9.6 4.15 8.7Q6.65 7.55 9.95 7.05Q7.65 8.15 7.65 8.5Q10.9 7.65 14.25 7.7L14.7 7.3Q14.7 6.65 12.9 5.8L13 5.8L14.55 5.9L15.25 5.4Q15.55 4.9 15.45 4.6L16 4.85L15.3 6.9L14.8 8.05L13.7 8.1L10.45 8.6L9.15 9Q7 9.7 5.25 11.35Q2.95 13.5 3.55 14.75Q1.85 15.55 1.25 13.8Q0.65 12 1.05 11.05Q-0.85 10.3 0.65 7.9Q-0.35 7.1 0.25 4.9Q0.85 2.65 3.7 1.7Q3.25 3.25 8.15 3.25L9.95 3.35Q8.5 3.6 8.1 4Q7.65 4.35 9.15 4.75L10.95 5.25L10.9 5.25L9.55 5.35Q8.15 5.6 8.15 6.2L9.05 6.7L9.95 7.05M7.9 5.95Q3.8 5.85 0.65 7.9Q3.8 5.85 7.9 5.95M5.25 5L10.9 5.25L5.25 5" />
+<path style="fill:#808080;fill-opacity:1" d="M19.65 3.2L20.45 4.15Q20.75 5 20.6 7Q19.55 7.5 19 6.8Q18.6 6.25 18.65 5.7L17.9 3.8L19.65 3.2M17.9 3.8L18 2Q19.15 1.6 19.6 2.95L19.65 3.2L18.65 5.7M18 2L17.9 3.8L15.95 2.85Q14.95 0.6 14.1 0.15Q15.75 -0.5 18 2M15.25 5.4L14.55 5.9L13 5.8L12.9 5.8L10.9 5.25L10.95 5.25L9.15 4.75Q7.65 4.35 8.1 4Q8.5 3.6 9.95 3.35Q13.2 3.55 15.45 4.6Q15.55 4.9 15.25 5.4M9.05 6.7L8.15 6.2Q8.15 5.6 9.55 5.35L10.9 5.25L12.9 5.8Q14.7 6.65 14.7 7.3L14.25 7.7Q10.9 7.65 7.65 8.5Q7.65 8.15 9.95 7.05L12.1 7.15L9.05 6.7M12.1 7.15L9.95 7.05" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.34902" d="M14.8 8.05Q17.85 7.65 20.3 8.85L20.6 7" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.34902" d="M18.65 5.7L17.45 7.3" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.34902" d="M20.6 7Q20.75 5 20.45 4.15L19.65 3.2L18.65 5.7" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.34902" d="M17.9 3.8L17.15 5.25" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.34902" d="M19.65 3.2L19.6 2.95Q19.15 1.6 18 2L17.9 3.8" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.34902" d="M16 4.85L15.3 6.9L14.8 8.05L13.7 8.1L10.45 8.6L9.15 9Q7 9.7 5.25 11.35Q2.95 13.5 3.55 14.75Q1.85 15.55 1.25 13.8Q0.65 12 1.05 11.05Q-0.85 10.3 0.65 7.9Q-0.35 7.1 0.25 4.9Q0.85 2.65 3.7 1.7Q3.25 3.25 8.15 3.25L9.95 3.35Q13.2 3.55 15.45 4.6" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.34902" d="M10.9 5.25L12.9 5.8L13 5.8Q14.7 6.4 15.3 6.9" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.34902" d="M9.95 7.05Q6.65 7.55 4.15 8.7Q2.3 9.6 1.05 11.05" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.34902" d="M15.95 2.85Q14.95 0.6 14.1 0.15Q15.75 -0.5 18 2" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.34902" d="M9.95 7.05L12.1 7.15" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.34902" d="M0.65 7.9Q3.8 5.85 7.9 5.95" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.34902" d="M10.9 5.25L5.25 5" />
+</g>
+</svg>

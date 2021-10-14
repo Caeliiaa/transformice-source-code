@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="24px" height="28px"
+xml:space="preserve">
+<g id="PathID_3067" transform="matrix(1, 0, 0, 1, 0.15, 0.1)">
+<path style="fill:#808080;fill-opacity:1" d="M16.95 3.85Q15.15 3.3 16.75 0.6Q18.75 0.15 21 1.6Q18.2 1.6 16.95 3.85" />
+<path style="fill:#494949;fill-opacity:1" d="M16.95 3.85L16.65 4.45Q16.2 5.3 16.05 6.4L11.9 5.5Q14.05 1.2 16.75 0.6Q15.15 3.3 16.95 3.85" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.301961" d="M16.75 0.6Q14.05 1.2 11.9 5.5L16.05 6.4Q16.2 5.3 16.65 4.45L16.95 3.85" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.301961" d="M16.75 0.6Q18.75 0.15 21 1.6Q18.2 1.6 16.95 3.85" />
+</g>
+<g id="PathID_3068" transform="matrix(1, 0, 0, 1, 0.15, 0.1)">
+<path style="fill:#000000;fill-opacity:0.4" d="M10 15.2Q10.55 18.3 9.05 21.05Q7.7 22.15 5 21.75L6.1 12.45L20.5 12.55L21.85 14.7Q19.2 16.2 14.8 15.05L10 15.2" />
+</g>
+<g id="PathID_3069" transform="matrix(1, 0, 0, 1, 0.15, 0.1)">
+<path style="fill:#4B4B4B;fill-opacity:1" d="M8.3 17.35Q7.15 22.4 8.45 26.75Q8.4 27.8 7.45 26.95Q6.65 22.25 7.45 17.35L8.3 17.35" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.301961" d="M8.3 17.35Q7.15 22.4 8.45 26.75Q8.4 27.8 7.45 26.95Q6.65 22.25 7.45 17.35L8.3 17.35z" />
+</g>
+<g id="PathID_3070" transform="matrix(1, 0, 0, 1, 0.15, 0.1)">
+<radialGradient
+id="RadialGradID_973" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.0185547, 0, 0, 0.0153809, 11.45, 8.8)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0"  style="stop-color:#3F3F3F;stop-opacity:1" />
+<stop  offset="1"  style="stop-color:#626262;stop-opacity:1" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_973) " d="M13.75 12.45Q12.05 12.95 14.4 13.5Q9.45 12.8 8.7 14.05Q8.45 19.9 7.55 21.35L3.2 21.1Q0.95 20.15 0 18.85L2.75 14Q2.55 13.6 2.85 10.9Q3.1 8.2 6.4 6.15Q4.65 10.3 12.6 11.15Q20.5 11.95 20.5 8.95L20.7 9.45L21.3 11.8Q19.75 13.25 13.75 12.45" />
+<path style="fill:#808080;fill-opacity:1" d="M15.45 13.65L14.4 13.5Q12.05 12.95 13.75 12.45Q19.75 13.25 21.3 11.8Q22.85 12.15 22.95 12.75Q21.35 14.6 15.45 13.65" />
+<path style="fill:#353535;fill-opacity:1" d="M22.95 12.75L22.9 13.1L22.5 14.2Q18.9 14.85 15.55 14.2Q9.5 13 9.15 15.15Q9.05 19.6 8.25 21.25L8.05 22.25L3.25 21.85Q1.5 21.25 0.75 20.4L0 18.85Q0.95 20.15 3.2 21.1L7.55 21.35Q8.45 19.9 8.7 14.05Q9.45 12.8 14.4 13.5L15.45 13.65Q21.35 14.6 22.95 12.75" />
+<path style="fill:#A1A1A1;fill-opacity:1" d="M6.4 6.15Q7.85 5.05 9.85 4.95Q15.25 4.7 17.7 6.15Q19.7 7.3 20.5 8.95Q20.5 11.95 12.6 11.15Q4.65 10.3 6.4 6.15" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.301961" d="M20.5 8.95L20.7 9.45L21.3 11.8Q22.85 12.15 22.95 12.75L22.9 13.1L22.5 14.2Q18.9 14.85 15.55 14.2Q9.5 13 9.15 15.15Q9.05 19.6 8.25 21.25L8.05 22.25L3.25 21.85Q1.5 21.25 0.75 20.4L0 18.85L2.75 14Q2.55 13.6 2.85 10.9Q3.1 8.2 6.4 6.15Q7.85 5.05 9.85 4.95Q15.25 4.7 17.7 6.15Q19.7 7.3 20.5 8.95z" />
+</g>
+<g id="PathID_3071" transform="matrix(1, 0, 0, 1, 0.15, 0.1)">
+<path style="fill:#808080;fill-opacity:1" d="M5.5 7Q1.85 6.05 2.85 1.9Q4.3 0.15 6.8 0.05Q3.85 2.1 5.5 7" />
+<path style="fill:#4C4C4C;fill-opacity:1" d="M5.5 7L6.1 8.6Q4.45 10.3 2.85 9.5Q1.5 6.7 1.8 4.3Q1.9 3.25 2.45 2.45L2.85 1.9Q1.85 6.05 5.5 7" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.301961" d="M2.85 1.9L2.45 2.45Q1.9 3.25 1.8 4.3Q1.5 6.7 2.85 9.5Q4.45 10.3 6.1 8.6" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.301961" d="M2.85 1.9Q4.3 0.15 6.8 0.05" />
+</g>
+<g id="PathID_3072" transform="matrix(1, 0, 0, 1, 0.15, 0.1)">
+<path style="fill:#4B4B4B;fill-opacity:1" d="M20.6 27.15Q19.65 28 19.6 26.95L20.2 23.85L20.85 23.45L21 23.4L20.6 27.15" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.301961" d="M20.2 23.85L19.6 26.95Q19.65 28 20.6 27.15L21 23.4" />
+</g>
+</svg>

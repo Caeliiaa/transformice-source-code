@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="8px" height="8px"
+xml:space="preserve">
+<g id="PathID_1543" transform="matrix(1, 0, 0, 1, 0.1, 0.1)">
+<path style="fill:#3F3A37;fill-opacity:1" d="M5.5 4.5Q6.8 3.25 6.5 1.95L6.9 3.7Q6.95 4.75 5.7 5.95L5.5 4.5M4.65 5.45Q5.15 6.1 4.75 6.65L3.5 6.85Q2 6.8 1 5.8Q0 4.8 0 3.45L0.05 2.7Q0.9 5.65 4.65 5.45" />
+<path style="fill:#808080;fill-opacity:1" d="M4.85 3.85Q5.05 2.4 3.85 2.5Q2.6 2.6 2.6 3.35Q2.55 4.05 3.1 4.3L3.9 4.45Q4.5 4.7 4.65 5.45Q0.9 5.65 0.05 2.7Q0.25 1.95 1 1.15Q2.05 0.05 3.4 0Q5.35 -0.05 6.5 1.95Q6.8 3.25 5.5 4.5L4.85 3.85M3.2 0.35Q2.3 0.55 2.3 0.95L2.3 1.15Q2.45 1.35 3.1 1.35Q4 1.35 4.15 0.75Q4.15 0.25 3.2 0.35M1.2 1.9L1.45 2.05L1.75 1.9L1.9 1.65L1.55 1.35Q1.15 1.4 1.15 1.7L1.2 1.9" />
+<linearGradient
+id="LinearGradID_417" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00160217, 0.000930786, -0.00152588, 0.00263977, 4.1, 4.35)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#252222;stop-opacity:1" />
+<stop  offset="0.988235" style="stop-color:#5B5B5B;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_417) " d="M5.5 4.5L5.7 5.95Q5.15 5.15 4.65 5.45Q4.5 4.7 3.9 4.45L3.1 4.3Q2.55 4.05 2.6 3.35Q2.6 2.6 3.85 2.5Q5.05 2.4 4.85 3.85L5.5 4.5" />
+<path style="fill:#BBBBBB;fill-opacity:1" d="M4.15 0.75Q4 1.35 3.1 1.35Q2.45 1.35 2.3 1.15L2.3 0.95Q2.3 0.55 3.2 0.35Q4.15 0.25 4.15 0.75M1.15 1.7Q1.15 1.4 1.55 1.35L1.9 1.65L1.75 1.9L1.45 2.05L1.2 1.9L1.15 1.7" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.301961" d="M5.7 5.95Q6.95 4.75 6.9 3.7L6.5 1.95" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.301961" d="M5.5 4.5L5.7 5.95Q5.15 5.15 4.65 5.45Q5.15 6.1 4.75 6.65L3.5 6.85Q2 6.8 1 5.8Q0 4.8 0 3.45L0.05 2.7Q0.25 1.95 1 1.15Q2.05 0.05 3.4 0Q5.35 -0.05 6.5 1.95" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.301961" d="M4.65 5.45Q4.5 4.7 3.9 4.45L3.1 4.3Q2.55 4.05 2.6 3.35Q2.6 2.6 3.85 2.5Q5.05 2.4 4.85 3.85L5.5 4.5" />
+</g>
+</svg>

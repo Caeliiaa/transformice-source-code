@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="21px" height="20px"
+xml:space="preserve">
+<g id="PathID_487" transform="matrix(1, 0, 0, 1, 18.85, -3.5)">
+<path style="fill:#B36F02;fill-opacity:1" d="M-6.9 7.65Q-5.75 8.35 -4.85 6.75Q-4.05 5.3 -4.55 4.05Q-3.65 4.45 -3.3 5.3L-4.1 8.75L-5.4 8.85Q-6.25 8.7 -6.85 7.95L-6.9 7.65" />
+<path style="fill:#FDE68A;fill-opacity:1" d="M-6.05 3.65L-5.2 3.85L-5.1 3.85L-5.05 4L-5 4.35L-5.25 5.6Q-5.55 6.4 -6.15 6.4L-6.7 6.25L-6.9 5.8Q-6.75 4.6 -6.05 3.65" />
+<path style="fill:#DBAF02;fill-opacity:1" d="M-4.55 4.05Q-4.05 5.3 -4.85 6.75Q-5.75 8.35 -6.9 7.65L-6.9 5.8L-6.7 6.25L-6.15 6.4Q-5.55 6.4 -5.25 5.6L-5 4.35L-5.05 4L-5.1 3.85L-4.55 4.05" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.301961" d="M-4.55 4.05Q-3.65 4.45 -3.3 5.3L-4.1 8.75L-5.4 8.85L-5.4 16.35" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.301961" d="M-5.2 3.85L-6.05 3.65Q-6.75 4.6 -6.9 5.8L-6.9 7.65" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.301961" d="M-4.55 4.05L-5.1 3.85" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.301961" d="M-5.4 8.85Q-6.25 8.7 -6.85 7.95L-6.9 7.65" />
+</g>
+<g id="PathID_488" transform="matrix(1, 0, 0, 1, 18.85, -3.5)">
+<radialGradient
+id="RadialGradID_162" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.0117188, 0, 0, 0.00942993, -12.55, 12.6)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="128" fy="0" >
+<stop  offset="0.0941176"  style="stop-color:#7A72D9;stop-opacity:1" />
+<stop  offset="0.964706"  style="stop-color:#514C91;stop-opacity:1" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_162) " d="M-8.3 18L-12.4 21.7Q-11.1 15.35 -16.7 10.5Q-11.7 12.45 -8.8 15.2L-8.3 18" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.6" d="M-8.3 18L-12.4 21.7Q-11.1 15.35 -16.7 10.5Q-11.7 12.45 -8.8 15.2L-8.3 18z" />
+</g>
+<g id="PathID_489" transform="matrix(1, 0, 0, 1, 18.85, -3.5)">
+<radialGradient
+id="RadialGradID_163" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.0121765, 0, 0, 0.00816345, -6.95, 11.35)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0.0392157"  style="stop-color:#E94E27;stop-opacity:1" />
+<stop  offset="1"  style="stop-color:#A02528;stop-opacity:1" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_163) " d="M-8 19.5Q-9.6 18.25 -9.6 16.3Q-9.6 14.4 -8 12.9Q-6.35 11.4 -4.1 11.25Q-1.85 11.05 -0.35 12.3Q1.1 13.55 1.1 15.5Q1.15 17.4 -0.3 18.9Q-1.85 20.45 -4.1 20.6Q-6.35 20.75 -8 19.5" />
+<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:1" d="M-8 19.5Q-9.6 18.25 -9.6 16.3Q-9.6 14.4 -8 12.9Q-6.35 11.4 -4.1 11.25Q-1.85 11.05 -0.35 12.3Q1.1 13.55 1.1 15.5Q1.15 17.4 -0.3 18.9Q-1.85 20.45 -4.1 20.6Q-6.35 20.75 -8 19.5z" />
+</g>
+<g id="PathID_490" transform="matrix(1, 0, 0, 1, 18.85, -3.5)">
+<path style="fill:#FFFFFF;fill-opacity:1" d="M-1.15 16.8L-3.4 19.95Q-5.1 18.3 -5.9 16.8L-1.15 16.8" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.498039" d="M-5.9 16.8Q-5.1 18.3 -3.4 19.95L-1.15 16.8" />
+<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:1" d="M-1.15 16.8L-5.9 16.8L-5.9 14.5" />
+<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:1" d="M-1.15 16.8L0.75 16.8" />
+</g>
+<g id="PathID_491" transform="matrix(1, 0, 0, 1, 18.85, -3.5)">
+<path style="fill:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:5;stroke:#000000;stroke-opacity:1" d="M1.1 15.75Q1.05 17.5 -0.3 18.9Q-1.85 20.45 -4.1 20.6Q-6.35 20.75 -8 19.5L-8.9 18.55L-12.45 21.7Q-11.1 15.35 -16.7 10.5Q-12.15 12.25 -9.3 14.75Q-8.9 13.75 -8 12.9Q-6.35 11.4 -4.1 11.25L-3.35 11.2" />
+</g>
+</svg>

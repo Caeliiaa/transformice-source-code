@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="15px" height="7px"
+xml:space="preserve">
+<g id="PathID_3527" transform="matrix(1, 0, 0, 1, 7.25, 3.35)">
+<path style="fill:#6D6D6D;fill-opacity:1" d="M4.4 -1.3L5.4 -1.35L5.75 -0.95L5.6 -0.4L4.7 0L3.65 0.1Q3.25 0 3.2 -0.3Q3.15 -0.55 3.45 -0.85Q3.85 -1.2 4.4 -1.3M-4.1 1.55L-0.25 2.25Q1.7 2.55 3.7 2.25Q5.15 2.05 6.5 1.45Q5.4 2.75 3.5 3.1L3 3.15L-1.2 2.95L-4.7 2.25Q-5.95 1.85 -6.95 0.75L-4.1 1.55M-2 -0.95L-1.7 -1.05L-1.4 -0.85L-2 -0.95M4.15 1.3L3.95 1.6L3.55 1.7L3.1 1.6L2.95 1.3L3.1 1.05L3.55 0.95L3.95 1.05L4.15 1.3M0.05 1.35L-0.35 1.45L-0.7 1.35L-0.8 1.2L-0.7 1L-0.35 0.9L0.05 1L0.2 1.2L0.05 1.35M-4.6 0.35L-4.35 0.05L-3.65 -0.05L-3 0.05L-2.7 0.4L-3 0.65L-3.65 0.8L-4.35 0.65L-4.6 0.35" />
+<linearGradient
+id="LinearGradID_1122" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00213623, 0.00177002, -0.00424194, 0.00512695, 2.45, 1.45)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#808080;stop-opacity:1" />
+<stop  offset="1" style="stop-color:#A5A5A5;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_1122) " d="M3.45 -0.85Q3.15 -0.55 3.2 -0.3Q3.25 0 3.65 0.1L4.7 0L5.6 -0.4L5.75 -0.95L5.4 -1.35L4.4 -1.3Q3.85 -1.2 3.45 -0.85M-6.95 0.75L-7.05 0.65L-7.1 0.6L-2 -0.95L-1.4 -0.85L-1.1 -0.65Q0.4 0.1 1.5 -0.25Q3.2 -0.75 4.15 -2.2L4.6 -3.05L4.7 -3.15Q5 -3.35 5.85 -2.75L6.85 -1.75Q7.4 0.2 6.8 1.05L6.5 1.45Q5.15 2.05 3.7 2.25Q1.7 2.55 -0.25 2.25L-4.1 1.55L-6.95 0.75M3.95 1.05L3.55 0.95L3.1 1.05L2.95 1.3L3.1 1.6L3.55 1.7L3.95 1.6L4.15 1.3L3.95 1.05M0.2 1.2L0.05 1L-0.35 0.9L-0.7 1L-0.8 1.2L-0.7 1.35L-0.35 1.45L0.05 1.35L0.2 1.2M-4.35 0.65L-3.65 0.8L-3 0.65L-2.7 0.4L-3 0.05L-3.65 -0.05L-4.35 0.05L-4.6 0.35L-4.35 0.65" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.301961" d="M4.6 -3.05L4.7 -3.15Q5 -3.35 5.85 -2.75L6.85 -1.75Q7.4 0.2 6.8 1.05L6.5 1.45Q5.4 2.75 3.5 3.1L3 3.15L-1.2 2.95L-4.7 2.25Q-5.95 1.85 -6.95 0.75L-7.05 0.65L-7.1 0.6" />
+</g>
+</svg>

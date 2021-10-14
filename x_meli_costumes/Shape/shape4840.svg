@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="25px" height="27px"
+xml:space="preserve">
+<g id="PathID_3388" transform="matrix(1, 0, 0, 1, 0.15, 0.15)">
+<path style="fill:#808080;fill-opacity:1" d="M16.85 1.5L19.3 1.25L20.1 0L21.25 1.55Q22.05 1.2 22.35 0.2Q24.45 2.75 23.75 4.5Q24.05 5 23.8 6.85L20.6 13.25Q17.55 19.25 16.7 22.65L16.65 22.7L16.2 22.8L16.3 22.45Q17.2 19.2 17.45 13Q17.7 5.9 15.75 7.15Q15.4 2.5 16.85 1.5M3.95 2.85L6.75 1.35L6.05 2.4Q8.5 0.85 11 2.05Q10.25 2.4 9.75 4.35Q10.25 4.75 10.75 6.7L10 14.5L9.8 25.7Q8.15 21.85 8.15 15Q8.15 8.15 7.65 7.7Q6.45 6.6 3.8 8.4Q0.45 5.7 1.55 4.1Q2.45 3.25 3.95 2.85" />
+<path style="fill:#645A51;fill-opacity:1" d="M15.75 7.15Q14.15 10.3 14.25 16.85Q14.35 22 14.75 23L14.2 22.8L14.05 22.3Q12.5 17.45 12.4 13.2Q12.3 8.7 14.05 4.5Q15 2.25 16.8 1.5L16.85 1.5Q15.4 2.5 15.75 7.15M4.45 17.3Q5.6 23.85 6.85 25.4L7.95 26.7L7.3 26.7L6.55 25.75Q3 21.3 1.6 17.35Q0 13.05 0 9.3Q-0.05 5.55 1.5 4.1L1.55 4.1Q0.45 5.7 3.8 8.4Q3.3 10.8 4.45 17.3" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.301961" d="M16.85 1.5L19.3 1.25L20.1 0L21.25 1.55Q22.05 1.2 22.35 0.2Q24.45 2.75 23.75 4.5Q24.05 5 23.8 6.85L20.6 13.25Q17.55 19.25 16.7 22.65" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.301961" d="M16.65 22.7L16.2 22.8" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.301961" d="M14.05 22.3Q12.5 17.45 12.4 13.2Q12.3 8.7 14.05 4.5Q15 2.25 16.8 1.5" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.301961" d="M1.5 4.1Q-0.05 5.55 0 9.3Q0 13.05 1.6 17.35Q3 21.3 6.55 25.75" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.301961" d="M9.8 25.7L10 14.5L10.75 6.7Q10.25 4.75 9.75 4.35Q10.25 2.4 11 2.05Q8.5 0.85 6.05 2.4L6.75 1.35L3.95 2.85Q2.45 3.25 1.55 4.1" />
+</g>
+</svg>

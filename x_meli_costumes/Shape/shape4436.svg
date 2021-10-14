@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="13px" height="14px"
+xml:space="preserve">
+<g id="PathID_3124" transform="matrix(1, 0, 0, 1, 5.75, 35.15)">
+<radialGradient
+id="RadialGradID_1010" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00709534, 0, 0, 0.00828552, 0.35, -28.3)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0"  style="stop-color:#FFFDF5;stop-opacity:0.878431" />
+<stop  offset="0.14902"  style="stop-color:#FFD202;stop-opacity:0.701961" />
+<stop  offset="0.392157"  style="stop-color:#F79331;stop-opacity:0.541176" />
+<stop  offset="0.615686"  style="stop-color:#FCC86F;stop-opacity:0.141176" />
+<stop  offset="1"  style="stop-color:#FFDD87;stop-opacity:0" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_1010) " d="M4.65 -23.45Q2.85 -21.5 0.35 -21.5Q-2.2 -21.5 -4 -23.45Q-5.75 -25.5 -5.75 -28.3Q-5.75 -31.15 -4 -33.2Q-2.2 -35.15 0.35 -35.15Q2.85 -35.15 4.65 -33.2Q6.45 -31.15 6.45 -28.3Q6.45 -25.5 4.65 -23.45" />
+</g>
+<g id="PathID_3125" transform="matrix(1, 0, 0, 1, 5.75, 35.15)">
+<path style="fill:#FFF1B4;fill-opacity:1" d="M-0.2 -28.55Q-0.5 -27.4 0.25 -27.2Q0 -28.2 0.3 -29.65Q0.3 -28.6 1.25 -27.8Q1.85 -27.2 1.2 -26.5L0.65 -26.35Q-1.3 -27.15 -0.2 -28.55" />
+<linearGradient
+id="LinearGradID_1011" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0, 0.00308228, -0.00471497, 0, 0.3, -28.35)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#F35225;stop-opacity:1" />
+<stop  offset="0.988235" style="stop-color:#FFE362;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_1011) " d="M0.65 -26.35Q-1.65 -26.65 -1.3 -28.15Q-0.9 -29.7 0.2 -30.65Q1.4 -32.25 0.75 -34.05Q2.25 -31.75 1.1 -29.95Q1.05 -29.55 1.3 -29.1L2 -28.2Q2.6 -27.35 2.25 -26.95Q1.9 -26.5 1.2 -26.5Q1.85 -27.2 1.25 -27.8Q0.3 -28.6 0.3 -29.65Q0 -28.2 0.25 -27.2Q-0.5 -27.4 -0.2 -28.55Q-1.3 -27.15 0.65 -26.35" />
+</g>
+</svg>

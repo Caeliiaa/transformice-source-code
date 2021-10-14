@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="15px" height="9px"
+xml:space="preserve">
+<g id="PathID_2122" transform="matrix(1, 0, 0, 1, 0, 0.1)">
+<linearGradient
+id="LinearGradID_644" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.000228882, 0.00315857, -0.00357056, 0.000274658, 8.25, 1.95)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#C9C9C9;stop-opacity:1" />
+<stop  offset="0.847059" style="stop-color:#808080;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_644) " d="M13.55 3.6Q13.45 2 12.65 1.25Q13.1 2.35 12.95 3.6L12.65 5.3L12.4 3.7L7.95 4.2L7.4 5.85L7.4 4.3Q7 2.25 6.5 1.7Q6.95 2.9 6.75 4.35L4.55 4.75Q4.5 2.85 3.35 1.65Q2.45 0.75 1.85 0.75L4.75 0.55L9.4 0.2Q10 0.45 10.25 2.2Q10 0.45 9.4 0.2L10.5 0.15Q11.35 0.75 11.55 2.95Q11.35 0.75 10.5 0.15L12.6 0Q14.6 0.75 14.45 3.45L13.55 3.6M5.95 3.05Q5.8 1.35 4.75 0.55Q5.8 1.35 5.95 3.05" />
+<linearGradient
+id="LinearGradID_645" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.000274658, -0.00241089, 0.00402832, -0.000457764, 8.7, 4.9)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#646464;stop-opacity:1" />
+<stop  offset="0.984314" style="stop-color:#464646;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_645) " d="M3.65 7.45L4.25 6.5L4.55 4.75L6.75 4.35Q6.95 2.9 6.5 1.7Q7 2.25 7.4 4.3L7.4 5.85L7.95 4.2L12.4 3.7L12.65 5.3L12.95 3.6Q13.1 2.35 12.65 1.25Q13.45 2 13.55 3.6L14.45 3.45Q14.5 4.5 14 5.45L13.45 6.3L8.7 7.05L3.2 7.9L3.65 7.45M8.7 7.05Q9.15 5.95 9 4.95Q9.15 5.95 8.7 7.05" />
+<path style="fill:#43403B;fill-opacity:1" d="M3.2 7.9L1.55 7.1Q0.4 6.7 0.05 5Q-0.2 3.85 0.45 2L1.85 0.75Q2.45 0.75 3.35 1.65Q4.5 2.85 4.55 4.75L4.25 6.5L3.65 7.45L3.2 7.9M2.9 2.6Q2.1 2.85 2.85 5.1Q2.1 2.85 2.9 2.6M1.75 3.35Q1.7 6 3.05 6.7Q1.7 6 1.75 3.35" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.25098" d="M10.5 0.15Q11.35 0.75 11.55 2.95" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M1.85 0.75L4.75 0.55L9.4 0.2L10.5 0.15L12.6 0Q14.6 0.75 14.45 3.45Q14.5 4.5 14 5.45L13.45 6.3L8.7 7.05L3.2 7.9" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.25098" d="M2.85 5.1Q2.1 2.85 2.9 2.6" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.25098" d="M4.75 0.55Q5.8 1.35 5.95 3.05" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.25098" d="M9 4.95Q9.15 5.95 8.7 7.05" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.25098" d="M3.05 6.7Q1.7 6 1.75 3.35" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.25098" d="M9.4 0.2Q10 0.45 10.25 2.2" />
+</g>
+</svg>
