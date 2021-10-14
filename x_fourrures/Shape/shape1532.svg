@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="4px" height="14px"
+xml:space="preserve">
+<g id="PathID_894" transform="matrix(1, 0, 0, 1, 1.85, 7.4)">
+<radialGradient
+id="RadialGradID_261" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.0133514, 0, 0, 0.0133514, -2.05, -4.5)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0.0901961"  style="stop-color:#773510;stop-opacity:1" />
+<stop  offset="0.603922"  style="stop-color:#120E0C;stop-opacity:1" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_261) " d="M0.95 -5.15L1.3 -2.45L1.3 -1.8L1.35 0.2L1.1 4.7Q-0.7 7.15 -1 5.85L-1.65 3L-1.7 2.6L-1.85 1L-1.75 0.2L-0.95 -5.15Q-0.55 -7.4 0 -7.4Q0.55 -7.4 0.95 -5.15" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.301961" d="M0.95 -5.15L1.3 -2.45L1.3 -1.8L1.35 0.2L1.1 4.7Q-0.7 7.15 -1 5.85L-1.65 3L-1.7 2.6L-1.85 1L-1.75 0.2L-0.95 -5.15Q-0.55 -7.4 0 -7.4Q0.55 -7.4 0.95 -5.15z" />
+</g>
+</svg>

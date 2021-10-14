@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="7px" height="6px"
+xml:space="preserve">
+<g id="PathID_3611" transform="matrix(1, 0, 0, 1, 2.3, 2.75)">
+<path style="fill:#000000;fill-opacity:0.4" d="M1.55 1.5Q2.2 0.85 2.2 0L3.05 0.6L1.55 1.5M-0.45 -1.7L-1.7 -1.2L-1.85 -1.05L-1.95 -2.6L-0.45 -1.7" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:5;stroke:#000000;stroke-opacity:0.4" d="M3.05 0.6L2.2 0Q2.2 0.85 1.55 1.5" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:5;stroke:#000000;stroke-opacity:0.4" d="M3.05 0.6Q4.25 0.5 3.9 -0.6" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:5;stroke:#000000;stroke-opacity:0.4" d="M-1.85 -1.05L-1.7 -1.2L-0.45 -1.7L-1.95 -2.6" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:5;stroke:#000000;stroke-opacity:0.4" d="M2.2 0L-0.45 -1.7" />
+</g>
+<g id="PathID_3612" transform="matrix(1, 0, 0, 1, 2.3, 2.75)">
+<path style="fill:#F1D91D;fill-opacity:1" d="M2.2 0.15Q2.15 0.95 1.55 1.55Q0.9 2.2 0 2.2Q-0.9 2.2 -1.55 1.55Q-2.15 0.9 -2.15 0.05Q-2.15 -0.85 -1.55 -1.5L-0.95 -1.9L2.2 0.15" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:5;stroke:#000000;stroke-opacity:0.4" d="M2.2 0.15Q2.15 0.95 1.55 1.55Q0.9 2.2 0 2.2Q-0.9 2.2 -1.55 1.55Q-2.15 0.9 -2.15 0.05Q-2.15 -0.85 -1.55 -1.5L-0.95 -1.9" />
+</g>
+<g id="PathID_3613" transform="matrix(1, 0, 0, 1, 2.3, 2.75)">
+<path style="fill:#2B3039;fill-opacity:1" d="M-0.15 -0.25L-0.15 -0.3L-0.05 -1.35L0.75 -0.8L0.75 -0.3L-0.15 -0.25" />
+<path style="fill:#E15A46;fill-opacity:1" d="M-0.15 -0.25L0.75 -0.3L0.65 1.15L0.3 1.75L0 1.15L-0.15 -0.25" />
+</g>
+<g id="PathID_3614" transform="matrix(1, 0, 0, 1, 2.3, 2.75)">
+<path style="fill:#F5F5AD;fill-opacity:1" d="M-1.4 -0.9L-1.05 -1.15L-0.65 -0.9L-0.55 -0.25L-0.65 0.4L-1.05 0.65L-1.4 0.4L-1.55 -0.25L-1.4 -0.9" />
+</g>
+</svg>

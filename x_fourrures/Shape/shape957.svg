@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="18px" height="14px"
+xml:space="preserve">
+<g id="PathID_585" transform="matrix(1, 0, 0, 1, 7.25, 6.8)">
+<radialGradient
+id="RadialGradID_182" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.0101929, 0, 0, 0.0101929, -6.85, -2.6)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="51" fy="0" >
+<stop  offset="0"  style="stop-color:#351A07;stop-opacity:1" />
+<stop  offset="1"  style="stop-color:#7C4024;stop-opacity:1" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_182) " d="M1.15 3.65Q-2.85 3.25 -4.85 1.95Q-5.9 1.25 -6.15 -1.05L-6.25 -3.2L-5.35 -4.5Q-4.15 -5.9 -2.6 -6.5L-0.45 -6.8Q1.3 -6.75 3 -5.95Q3.95 -5.55 5.55 -3.65Q6.85 -2.1 7.05 0.9L7 3.6Q4.55 4 1.15 3.65" />
+<radialGradient
+id="RadialGradID_183" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00671387, 0, 0, 0.00671387, -5.6, 1.15)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="6" fy="0" >
+<stop  offset="0"  style="stop-color:#1E0F04;stop-opacity:1" />
+<stop  offset="1"  style="stop-color:#4C2311;stop-opacity:1" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_183) " d="M-6.25 -3.2L-6.15 -1.05Q-5.9 1.25 -4.85 1.95Q-2.85 3.25 1.15 3.65Q4.55 4 7 3.6L7.45 4.65Q8.25 5.65 10.65 6.65L6.25 6.65L1.15 6.6Q-2.05 6.5 -4.4 5.2Q-6.85 3.9 -7.05 2Q-7.35 -0.65 -6.25 -3.2" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:5;stroke:#000000;stroke-opacity:0.4" d="M-2.6 -6.5Q-4.15 -5.9 -5.35 -4.5L-6.25 -3.2" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:5;stroke:#000000;stroke-opacity:0.4" d="M1.15 6.6Q-2.05 6.5 -4.4 5.2Q-6.85 3.9 -7.05 2Q-7.35 -0.65 -6.25 -3.2" />
+</g>
+<g id="PathID_586" transform="matrix(1, 0, 0, 1, 7.25, 6.8)">
+<path style="fill:#EEDBCC;fill-opacity:1" d="M-3.8 -2.95L-2.95 -1.05Q-2.8 -0.8 -4.25 -1.6Q-5.75 -2.45 -6.1 -3.65Q-5.65 -4.95 -3.45 -6.3Q-4.45 -4.6 -3.8 -2.95M-7.2 0.3L-6.75 -1.75Q-4.7 0.05 -4.75 0.65Q-4.85 1.25 -5.65 0.95L-7.2 0.3" />
+</g>
+</svg>

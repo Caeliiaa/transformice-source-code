@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="17px" height="39px"
+xml:space="preserve">
+<g id="PathID_3636" transform="matrix(1, 0, 0, 1, 8.75, 19.45)">
+<path style="fill:#3B3A58;fill-opacity:1" d="M-0.9 -11.6Q0.9 -6.7 -0.45 0.75Q-0.6 2.8 -0.35 4.6Q-1.35 5.3 -1.85 2.15Q-2.15 0.4 -2.05 -2.55L-2 -5.55L-2.05 -7Q-2.7 -10.35 -5.75 -13.95Q-4.25 -13.55 -3.85 -12.8L-4.6 -14.35Q-3.1 -13.65 -2.7 -14.9Q-1.6 -13.45 -0.9 -11.6" />
+<path style="fill:#AF634A;fill-opacity:1" d="M-7.2 -17L-5.8 -16.65L-8.1 -19.05Q-4.75 -17.55 -2.7 -14.9Q-3.1 -13.65 -4.6 -14.35Q-5.55 -15.8 -7.2 -17" />
+<path style="fill:#FFE99C;fill-opacity:1" d="M-3.1 1.8L-2.95 0.9L-3.05 1.2Q-1.85 -4.65 -3.8 -7.55Q-2.2 -6.95 -2 -5.55L-2.05 -2.55Q-2.15 0.4 -1.85 2.15L-3.1 1.8" />
+<path style="fill:#CD9C6D;fill-opacity:1" d="M-3.05 1.2L-2.95 0.9L-3.1 1.8L-3.1 1.85L-3.25 1.8L-3.05 1.2" />
+<path style="fill:#EFBA57;fill-opacity:1" d="M0.45 7.85Q-2.85 8.1 -1.95 13.85Q-5 9.35 -3.25 1.8L-3.1 1.85L-3.1 1.8L-1.85 2.15Q-1.35 5.3 -0.35 4.6Q-0.15 6.35 0.45 7.85" />
+<radialGradient
+id="RadialGradID_846" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00860596, 0, 0, 0.00860596, 4.2, 13.05)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0.815686"  style="stop-color:#BF7B4A;stop-opacity:1" />
+<stop  offset="1"  style="stop-color:#EFBA57;stop-opacity:1" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_846) " d="M6.95 13.7Q8.15 15.35 8.1 16.55Q8.05 18.15 5.75 19Q0.4 17.35 -1.95 13.85Q-2.85 8.1 0.45 7.85Q2.15 12 6.95 13.7" />
+</g>
+<g id="PathID_3637" transform="matrix(1, 0, 0, 1, 8.75, 19.45)">
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:5;stroke:#000000;stroke-opacity:0.4" d="M-5.8 -16.65L-7.2 -17Q-5.55 -15.8 -4.6 -14.35L-3.85 -12.8Q-4.25 -13.55 -5.75 -13.95Q-2.7 -10.35 -2.05 -7L-2 -5.55Q-2.2 -6.95 -3.8 -7.55Q-1.9 -4.75 -3 0.9L-3.05 1.2L-3.25 1.8Q-6.35 15.3 5.75 19Q8.05 18.15 8.1 16.55Q8.15 15.35 6.95 13.7Q0.45 11.45 -0.35 4.6Q-0.6 2.8 -0.45 0.75Q0.9 -6.7 -0.9 -11.6Q-1.6 -13.45 -2.7 -14.9Q-4.75 -17.55 -8.1 -19.05L-5.8 -16.65z" />
+</g>
+<g id="PathID_3638" transform="matrix(1, 0, 0, 1, 8.75, 19.45)">
+<path style="fill:#271911;fill-opacity:0.501961" d="M5.75 19Q-6.35 15.3 -3.25 1.8L-3.1 1.85Q-3.9 7.05 -0.9 12.4Q0.9 15.7 8.1 16.55Q8.05 18.15 5.75 19" />
+</g>
+</svg>

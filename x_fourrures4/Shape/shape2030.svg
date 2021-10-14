@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="8px" height="9px"
+xml:space="preserve">
+<g id="PathID_5741" transform="matrix(1, 0, 0, 1, 3.85, 4.25)">
+<path style="fill:#D486AA;fill-opacity:1" d="M-0.45 1.3Q0.15 1.3 0.15 0.85L-0.1 0.45L0.35 0.05L0.7 -0.15L0.95 -0.15L1 -0.15L1.75 0.35L2.2 -0.1Q2.2 -0.45 1.8 -0.6L1.9 -0.75L2.7 -0.95L3.45 0.55L3.9 1.8Q4.15 2.7 3.05 3.75Q2.6 4.15 2.2 4.2Q1.6 4.3 1.05 3.55L0.45 2.8L0 2.35L-0.45 1.95L-1.05 1.5L-0.85 1.25L-0.45 1.3M2.1 1.55Q3.25 3.05 2.2 4.2Q3.25 3.05 2.1 1.55" />
+<path style="fill:#E45DA0;fill-opacity:1" d="M1.8 -0.6Q2.2 -0.45 2.2 -0.1L1.75 0.35L1 -0.15L0.95 -0.15L0.7 -0.15Q0 -0.25 -0.05 -0.85Q-0.05 -1.65 0.95 -1.65Q1.95 -1.65 1.95 -1L1.9 -0.75L1.8 -0.6M-0.85 1.25L-1.05 0.85Q-1.05 0.4 -0.45 0.4L-0.1 0.45L0.15 0.85Q0.15 1.3 -0.45 1.3L-0.85 1.25" />
+<path style="fill:#DFBBC9;fill-opacity:1" d="M0.35 0.05L-0.1 0.45L-0.45 0.4Q-1.05 0.4 -1.05 0.85L-0.85 1.25L-1.05 1.5L-1.45 1.25Q-3.1 0.2 -3.65 -1.05L-3.7 -1.1Q-4.1 -2.7 -3.2 -3.55Q-2.4 -4.4 -1.2 -4.25L0.45 -3.9L1.95 -2.2L2.7 -0.95L1.9 -0.75L1.95 -1Q1.95 -1.65 0.95 -1.65Q-0.05 -1.65 -0.05 -0.85Q0 -0.25 0.7 -0.15L0.35 0.05" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:5;stroke:#25000E;stroke-opacity:0.4" d="M2.7 -0.95L1.95 -2.2L0.45 -3.9" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:5;stroke:#25000E;stroke-opacity:0.4" d="M-3.7 -1.1L-3.65 -1.05Q-3.1 0.2 -1.45 1.25L-1.05 1.5" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:5;stroke:#25000E;stroke-opacity:0.4" d="M2.2 4.2Q3.25 3.05 2.1 1.55" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:5;stroke:#25000E;stroke-opacity:0.4" d="M2.7 -0.95L3.45 0.55L3.9 1.8Q4.15 2.7 3.05 3.75Q2.6 4.15 2.2 4.2Q1.6 4.3 1.05 3.55L0.45 2.8L0 2.35L-0.45 1.95L-1.05 1.5" />
+</g>
+</svg>

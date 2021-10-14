@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="10px" height="8px"
+xml:space="preserve">
+<g id="PathID_3994" transform="matrix(1, 0, 0, 1, 3.8, 4.15)">
+<path style="fill:#9AADB6;fill-opacity:1" d="M3 0Q0.5 1.8 -0.8 1.7L-1.7 1.1Q0.3 0.45 2.05 -1.35L2.3 -0.85L2.9 -0.2L3.05 -0.05L3 0" />
+<path style="fill:#000201;fill-opacity:1" d="M-1.7 1.1L-2.05 0.85L-2.6 0.4Q-0.55 -0.5 1.55 -2.2L2 -1.45L2.05 -1.35Q0.3 0.45 -1.7 1.1M2.2 1.5L1 2.05L0.1 2.35L-0.1 2.2L-0.3 2.05L-0.8 1.7Q0.5 1.8 3 0L3.05 -0.05L3.65 0.35L2.2 1.5" />
+<path style="fill:#3D618D;fill-opacity:1" d="M-2.6 0.4Q-3.35 -0.3 -3.7 -1.1Q-4.1 -2.7 -3.2 -3.55Q-2.4 -4.4 -0.8 -4Q0.75 -3.6 1.35 -2.6L1.55 -2.2Q-0.55 -0.5 -2.6 0.4M1 2.05L2.2 1.5Q4.25 1 5.05 2.45Q4.25 1 2.2 1.5L3.65 0.35L4 0.45L4.9 0.5Q6.9 0.6 5.8 1.75L5.05 2.45L3.55 3.1L1 2.95L0.1 2.35L1 2.05M5.8 1.75L5.75 1.3Q5.65 0.9 4.85 0.75L4 0.45L4.85 0.75Q5.65 0.9 5.75 1.3L5.8 1.75" />
+<path style="fill:#977451;fill-opacity:1" d="M-0.3 2.05L-0.1 2.2L-0.3 2.05" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.301961" d="M2.9 -0.2L3.05 -0.05L3.65 0.35L4 0.45L4.9 0.5Q6.9 0.6 5.8 1.75L5.05 2.45L3.55 3.1L1 2.95L0.1 2.35" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.301961" d="M-0.3 2.05L-0.8 1.7L-1.7 1.1L-2.05 0.85L-2.6 0.4Q-3.35 -0.3 -3.7 -1.1" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.301961" d="M4 0.45L4.85 0.75Q5.65 0.9 5.75 1.3L5.8 1.75" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.301961" d="M2.2 1.5Q4.25 1 5.05 2.45" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.301961" d="M-0.1 2.2L-0.3 2.05" />
+</g>
+</svg>

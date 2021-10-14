@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="17px" height="39px"
+xml:space="preserve">
+<g id="PathID_359" transform="matrix(1, 0, 0, 1, 8.75, 19.45)">
+<path style="fill:#110601;fill-opacity:1" d="M-1.25 -5.6L-2 -5.3L-2 -6.1L-1.25 -6.45Q-0.5 -6.85 0.05 -7.45L0.1 -6.35Q-0.4 -5.95 -1.25 -5.6M-2.5 -0.95L-2.3 -2.25L-1.35 -2.2Q-0.75 -2.05 -0.1 -1.5L-0.25 -0.4L-1.45 -1L-2.5 -0.95M-1.9 3.3Q-2.6 3.35 -3.25 3.75L-3.2 2.65L-1.8 2.45L-0.5 2.7L-0.45 3.6L-1.9 3.3M-1.35 -8.1L-2.1 -7.9L-2.2 -8.55L-1.4 -8.75Q-0.8 -9.05 -0.35 -9.7L-0.15 -8.85Q-0.65 -8.35 -1.35 -8.1" />
+<path style="fill:#3EABD7;fill-opacity:1" d="M-2.1 -7.9L-1.35 -8.1Q-0.65 -8.35 -0.15 -8.85L0.05 -7.45Q-0.5 -6.85 -1.25 -6.45L-2 -6.1L-2.1 -7.9M-1.8 2.45L-3.2 2.65L-2.95 0.9L-2.5 -0.95L-1.45 -1L-0.25 -0.4L-0.45 0.75L-0.5 2.7L-1.8 2.45M0 6.6L0.8 8.65Q-0.15 9.3 -0.95 10.25L-1.55 11.1L-2.7 8L-2.1 7.45Q-1.1 6.7 0 6.6" />
+<linearGradient
+id="LinearGradID_134" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.00494385, 0.00856018, -0.0188141, 0.0108643, 0, -1.2)" spreadMethod ="pad" x1="-819.2" y1="0" x2="819.2" y2="0" >
+<stop  offset="0" style="stop-color:#FFCA6F;stop-opacity:1" />
+<stop  offset="0.882353" style="stop-color:#D1792F;stop-opacity:1" />
+</linearGradient>
+<path style="fill:url(#LinearGradID_134) " d="M-1.35 -2.2L-2.3 -2.25L-2 -5.3L-1.25 -5.6Q-0.4 -5.95 0.1 -6.35Q0.2 -4.1 -0.1 -1.5Q-0.75 -2.05 -1.35 -2.2M-2.15 6Q-2.65 6.2 -3.05 6.55L-3.25 3.75Q-2.6 3.35 -1.9 3.3L-0.45 3.6L-0.2 5.65Q-1.25 5.55 -2.15 6M-0.85 12.5L-0.2 11.45Q0.5 10.45 1.5 9.8Q3.4 12.45 6.95 13.7Q8.15 15.35 8.1 16.55Q1 15.7 -0.85 12.5M-0.35 -9.7Q-0.8 -9.05 -1.4 -8.75L-2.2 -8.55Q-3.15 -14.7 -8.1 -19.05Q-1.9 -16.25 -0.35 -9.7" />
+<path style="fill:#875720;fill-opacity:1" d="M8.1 16.55Q8.05 18.15 5.75 19Q0.8 17.5 -1.6 14.35L-0.85 12.5Q1 15.7 8.1 16.55M-3.85 7.4Q-3.95 5.8 -3.65 4.05L-3.25 3.75L-3.05 6.55L-3.85 7.4M-3.45 2.75L-3.25 1.8L-2.95 0.9L-3.2 2.65L-3.45 2.75" />
+<path style="fill:#100A01;fill-opacity:1" d="M-1.55 11.1L-0.9 12.4L-0.85 12.5L-1.6 14.35L-2.55 12.8L-1.55 11.1M-2.7 8L-3.7 9.2L-3.85 7.4L-3.05 6.55L-2.7 8M-3.65 4.05L-3.45 2.75L-3.2 2.65L-3.25 3.75L-3.65 4.05" />
+<path style="fill:#251701;fill-opacity:1" d="M-2.1 7.45L-2.7 8L-3.05 6.55Q-2.65 6.2 -2.15 6Q-1.25 5.55 -0.2 5.65L0 6.6Q-1.1 6.7 -2.1 7.45M-0.2 11.45L-0.85 12.5L-0.9 12.4L-1.55 11.1L-0.95 10.25Q-0.15 9.3 0.8 8.65L1.5 9.8Q0.5 10.45 -0.2 11.45" />
+<path style="fill:#277EA1;fill-opacity:1" d="M-2.55 12.8Q-3.4 11.15 -3.7 9.2L-2.7 8L-1.55 11.1L-2.55 12.8" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:5;stroke:#000000;stroke-opacity:0.4" d="M0.1 -6.35L0.05 -7.45" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:5;stroke:#000000;stroke-opacity:0.4" d="M-2 -6.1L-2 -5.3" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:5;stroke:#000000;stroke-opacity:0.4" d="M0.1 -6.35Q0.2 -4.1 -0.1 -1.5L-0.25 -0.4L-0.45 0.75L-0.5 2.7L-0.45 3.6L-0.2 5.65L0 6.6L0.8 8.65L1.5 9.8Q3.4 12.45 6.95 13.7Q8.15 15.35 8.1 16.55Q8.05 18.15 5.75 19Q0.8 17.5 -1.6 14.35L-2.55 12.8Q-3.4 11.15 -3.7 9.2L-3.85 7.4Q-3.95 5.8 -3.65 4.05L-3.45 2.75L-3.25 1.8L-2.95 0.9L-2.5 -0.95L-2.3 -2.25L-2 -5.3" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:5;stroke:#000000;stroke-opacity:0.4" d="M-0.15 -8.85L-0.35 -9.7" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:5;stroke:#000000;stroke-opacity:0.4" d="M-2.2 -8.55L-2.1 -7.9" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:5;stroke:#000000;stroke-opacity:0.4" d="M-0.15 -8.85L0.05 -7.45" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:5;stroke:#000000;stroke-opacity:0.4" d="M-2.1 -7.9L-2 -6.1" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:5;stroke:#000000;stroke-opacity:0.4" d="M-2.2 -8.55Q-3.15 -14.7 -8.1 -19.05Q-1.9 -16.25 -0.35 -9.7" />
+</g>
+</svg>

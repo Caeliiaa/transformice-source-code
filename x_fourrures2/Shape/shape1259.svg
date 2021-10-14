@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="21px" height="20px"
+xml:space="preserve">
+<g id="PathID_1979" transform="matrix(1, 0, 0, 1, 10.6, 9.3)">
+<path style="fill:#3F060D;fill-opacity:1" d="M5.1 8.05L5.95 7.55Q9.1 5.6 9.4 2.9Q10.15 -3.95 8.05 -4.95L5.75 -4.15L4.7 -3.9Q3.75 -5.2 2.05 -5.2Q1.2 -5.2 0.3 -4.6L-0.55 -5.1Q-1.85 -5.95 -2.7 -7.05L1.15 -8.65Q5.3 -10.15 6.5 -8.15Q7.5 -8.55 8.55 -6.2Q9.2 -4.8 9.65 -2.85Q10.35 0.5 9.85 3.5Q9.5 5.55 8.75 6.75Q7.45 8.85 4.65 9.7L5.1 8.05M-8.65 4.15Q-7.85 5.9 -6 7.05L-6 7.5L-5.95 8.65Q-7.8 7.85 -9 6.6Q-10.7 4.8 -10.4 3.4Q-9.95 1.4 -8.75 -0.15Q-9.55 2.05 -8.65 4.15" />
+<path style="fill:#A18176;fill-opacity:1" d="M2.95 -3.6Q1.85 -3.7 0.3 -4.6Q1.2 -5.2 2.05 -5.2Q3.75 -5.2 4.7 -3.9L2.95 -3.6M-6 7.5L-6 7.05L-4.35 7.8Q1.15 9.9 5.1 8.05L4.65 9.7Q1.8 10.4 -2.45 9.65L-5.95 8.65L-6 7.5" />
+<path style="fill:#FFE7E7;fill-opacity:1" d="M0.3 -4.6Q1.85 -3.7 2.95 -3.6L4.7 -3.9Q5.75 -2.4 5.75 0.85Q5.75 4.95 5.1 8.05Q1.15 9.9 -4.35 7.8L-6 7.05Q-5.8 3.6 -3.2 -0.6Q-1.35 -3.55 0.3 -4.6" />
+<path style="fill:#650F1C;fill-opacity:1" d="M-3.2 -0.6Q-5.8 3.6 -6 7.05Q-7.85 5.9 -8.65 4.15Q-9.55 2.05 -8.75 -0.15L-2.7 -7.05Q-1.85 -5.95 -0.55 -5.1L0.3 -4.6Q-1.35 -3.55 -3.2 -0.6M5.75 0.85Q5.75 -2.4 4.7 -3.9L5.75 -4.15L8.05 -4.95Q10.15 -3.95 9.4 2.9Q9.1 5.6 5.95 7.55L5.1 8.05Q5.75 4.95 5.75 0.85" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:5;stroke:#23000B;stroke-opacity:0.329412" d="M4.65 9.7Q7.45 8.85 8.75 6.75Q9.5 5.55 9.85 3.5Q10.35 0.5 9.65 -2.85Q9.2 -4.8 8.55 -6.2Q7.5 -8.55 6.5 -8.15" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:5;stroke:#23000B;stroke-opacity:0.329412" d="M1.15 -8.65L-2.7 -7.05" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:5;stroke:#23000B;stroke-opacity:0.329412" d="M4.65 9.7Q1.8 10.4 -2.45 9.65L-5.95 8.65Q-7.8 7.85 -9 6.6Q-10.7 4.8 -10.4 3.4Q-9.95 1.4 -8.75 -0.15L-2.7 -7.05" />
+</g>
+</svg>

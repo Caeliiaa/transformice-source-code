@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="19px" height="21px"
+xml:space="preserve">
+<g id="PathID_3310" transform="matrix(1, 0, 0, 1, 9.55, 10.4)">
+<path style="fill:#508198;fill-opacity:1" d="M-8 2.15Q-7.05 6.6 -1.55 7.3Q2.85 8.15 5.7 5.6Q8.65 2.85 7.9 -2.1L5.5 -4.3Q0.9 -6.75 -2.1 -7.85Q-0.9 -8.3 0.2 -9.15L4.05 -9.4L6.7 -9.15L8.6 -6.55Q9 -5.65 9.3 -2.65L9.2 -1.3Q8.9 0.25 8.65 4.05Q8.5 7.5 5.45 8.75Q-0.65 11.25 -4.95 9L-7.2 7.25Q-9.65 4.65 -9.4 1.9Q-9.3 0.7 -8.7 -0.6L-7.85 -2.15Q-8.45 -0.05 -8 2.15" />
+<path style="fill:#7AD0DF;fill-opacity:1" d="M-7.85 -2.15L-2.1 -7.85Q0.9 -6.75 5.5 -4.3L7.9 -2.1Q8.65 2.85 5.7 5.6Q2.85 8.15 -1.55 7.3Q-7.05 6.6 -8 2.15Q-8.45 -0.05 -7.85 -2.15" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:5;stroke:#000000;stroke-opacity:0.4" d="M6.7 -9.15L8.6 -6.55Q9 -5.65 9.3 -2.65L9.2 -1.3Q8.9 0.25 8.65 4.05Q8.5 7.5 5.45 8.75Q-0.65 11.25 -4.95 9L-7.2 7.25Q-9.65 4.65 -9.4 1.9Q-9.3 0.7 -8.7 -0.6L-7.85 -2.15L-2.1 -7.85Q-0.9 -8.3 0.2 -9.15" />
+</g>
+<g id="PathID_3311" transform="matrix(1, 0, 0, 1, 9.55, 10.4)">
+<path style="fill:#365F71;fill-opacity:1" d="M-6.05 -4.05L-8.6 -1.2Q-6.85 -5.1 -6.1 -6.4Q-5.4 -7.6 -4.1 -7.4L-2.9 -6.9L-3.2 -7.9L-6.05 -4.05M-3.2 -7.9Q-3.3 -9.1 -2.3 -9.9Q-1.75 -10.35 -0.95 -10.2L0.35 -9.65L-2.9 -6.9M-8.6 -1.2Q-9.5 -2.85 -8.1 -4.25L-6.05 -4.05" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M-2.9 -6.9L-4.1 -7.4Q-5.4 -7.6 -6.1 -6.4Q-6.85 -5.1 -6.05 -4.05" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M-2.9 -6.9L-3.2 -7.9Q-3.3 -9.1 -2.3 -9.9Q-1.75 -10.35 -0.95 -10.2L0.35 -9.65" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#000000;stroke-opacity:0.4" d="M-6.05 -4.05L-8.1 -4.25Q-9.5 -2.85 -8.6 -1.2" />
+</g>
+</svg>

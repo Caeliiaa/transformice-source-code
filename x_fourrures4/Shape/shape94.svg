@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="18px" height="43px"
+xml:space="preserve">
+<g id="PathID_4689" transform="matrix(1, 0, 0, 1, 9.2, 23.35)">
+<radialGradient
+id="RadialGradID_1013" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.0202637, 0.0258331, -0.012558, 0.00987244, -3.25, -11.05)" spreadMethod ="pad" cx="0" cy="0" r="819.2" fx="0" fy="0" >
+<stop  offset="0.247059"  style="stop-color:#F7A87D;stop-opacity:1" />
+<stop  offset="1"  style="stop-color:#FFEAD7;stop-opacity:1" />
+</radialGradient>
+<path style="fill:url(#RadialGradID_1013) " d="M-0.9 12.4Q-4.15 6.55 -2.95 0.9Q-0.8 -7.3 -3.65 -13.25Q-4.7 -15 -6.65 -16.7L-8.2 -16.1L-7.85 -17.4Q-8.6 -17.5 -9 -17.9Q-8.3 -18.5 -7.4 -18.4Q-6.6 -18.3 -5.65 -17.65L-5.55 -17.6L-4.95 -17.15L-3.2 -15.5L-2.35 -14.4Q1.3 -9 -0.45 0.75Q-1.2 10.85 6.95 13.7Q8.15 15.35 8.1 16.55Q0.9 15.7 -0.9 12.4" />
+<path style="fill:#DBC3B9;fill-opacity:1" d="M-2.95 0.9Q-4.15 6.55 -0.9 12.4Q0.9 15.7 8.1 16.55Q8.05 18.15 5.75 19Q-6.35 15.3 -3.25 1.8L-2.95 0.9" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:5;stroke:#513628;stroke-opacity:0.4" d="M8.1 16.55Q8.15 15.35 6.95 13.7Q-1.2 10.85 -0.45 0.75Q1.3 -9 -2.35 -14.4L-3.2 -15.5L-4.95 -17.15L-5.55 -17.6L-5.65 -17.65Q-6.6 -18.3 -7.4 -18.4Q-8.3 -18.5 -9 -17.9Q-8.6 -17.5 -7.85 -17.4L-8.2 -16.1L-6.65 -16.7Q-4.7 -15 -3.65 -13.25Q-0.8 -7.3 -2.95 0.9" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:5;stroke:#513628;stroke-opacity:0.4" d="M8.1 16.55Q8.05 18.15 5.75 19Q-6.35 15.3 -3.25 1.8L-2.95 0.9" />
+</g>
+<g id="PathID_4690" transform="matrix(1, 0, 0, 1, 9.2, 23.35)">
+<path style="fill:#D6FEFF;fill-opacity:1" d="M0.25 -23.2L2 -21.95L4.5 -19.45L5.55 -17.7L3.9 -18.7L1.3 -21.35L0.25 -23.2" />
+<path style="fill:#D9F3FF;fill-opacity:1" d="M2.9 -17.05L-0.4 -20.45L1.3 -21.35L3.9 -18.7L2.9 -17.05" />
+<path style="fill:#D6FFFF;fill-opacity:1" d="M-1.75 -23.1L0.25 -23.2L1.3 -21.35L-0.4 -20.45L-1.75 -23.1" />
+<path style="fill:#DAECFF;fill-opacity:1" d="M2.9 -17.05L3.9 -18.7L5.55 -17.7L5.35 -15.7L2.9 -17.05" />
+<path style="fill:#CFDDF0;fill-opacity:1" d="M2.9 -17.05L5.35 -15.7L-1.35 -15.1L-2.75 -15L2.9 -17.05" />
+<path style="fill:#FFFFFF;fill-opacity:1" d="M-1.35 -15.1L-3.55 -12.9Q-3.85 -13.9 -4.65 -14.55L-2.55 -16.4L-2.75 -15L-1.35 -15.1" />
+<path style="fill:#D8FCFF;fill-opacity:1" d="M-2.75 -15L-2.55 -16.4L-1.75 -23.1L-0.4 -20.45L-2.75 -15" />
+<path style="fill:#D9F0FF;fill-opacity:1" d="M-2.75 -15L-0.4 -20.45L2.9 -17.05L-2.75 -15" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#967FBD;stroke-opacity:0.4" d="M1.3 -21.35L3.9 -18.7L5.55 -17.7L4.5 -19.45L2 -21.95L0.25 -23.2L1.3 -21.35L-0.4 -20.45L2.9 -17.05L3.9 -18.7" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#967FBD;stroke-opacity:0.4" d="M5.35 -15.7L5.55 -17.7" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#967FBD;stroke-opacity:0.4" d="M2.9 -17.05L5.35 -15.7L-1.35 -15.1L-3.55 -12.9Q-3.85 -13.9 -4.65 -14.55L-2.55 -16.4L-1.75 -23.1L0.25 -23.2" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#967FBD;stroke-opacity:0.4" d="M-0.4 -20.45L-1.75 -23.1" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#967FBD;stroke-opacity:0.4" d="M-2.55 -16.4L-2.75 -15L-0.4 -20.45" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#967FBD;stroke-opacity:0.4" d="M-2.75 -15L-1.35 -15.1" />
+<path style="fill:none;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke:#967FBD;stroke-opacity:0.4" d="M-2.75 -15L2.9 -17.05" />
+</g>
+</svg>
